@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "title": "Ashley Sawdaye | Managing Partner, Galaxy Consulting",
+    "description": "Explore how Ashley Sawdaye tokenizes real estate and scales freedom-tech ecosystems from Scottsdale, blending MIT engineering with INSEAD strategy.",
+    "keywords": [
+      "Ashley Sawdaye",
+      "Galaxy Consulting",
+      "real estate tokenization",
+      "proptech strategy",
+      "blockchain freedom tech",
+      "Arizona startup ecosystem"
+    ]
+  },
+  "hero": {
+    "name": "Ashley Sawdaye",
+    "title": "Managing Partner, Galaxy Consulting | AI & PropTech Strategist",
+    "tagline": "Painting Arizona’s freedom-tech canvas with compliant real estate tokenization.",
+    "primary_cta": {
+      "label": "Schedule an Advisory Call",
+      "href": "mailto:ashley@galaxyconsulting.co"
+    },
+    "secondary_cta": {
+      "label": "Download the Tokenization Playbook",
+      "href": "https://www.galaxyconsulting.co/tokenization-guide.pdf"
+    },
+    "media": {
+      "portrait": "assets/galaxy-ashley-portrait.jpg",
+      "background": "assets/galaxy-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Ashley Sawdaye is an innovation and operations leader who moved from Washington State to Arizona to tokenize real estate, advise AI ventures, and ignite the state’s freedom-tech ecosystem.",
+    "origin_story": {
+      "headline": "From global brands to blockchain frontiers.",
+      "copy": "Ashley launched L’Oréal’s first enterprise digital transformation, helped scale Advertising.com to a $435M acquisition, then founded Galaxy Consulting to guide emerging tech founders."
+    },
+    "inflection_point": {
+      "headline": "Tokenizing the built world.",
+      "copy": "After executing fractional-residential strategies at Lofty AI and architecting a REIT-compliant platform for Growth Holdings, Ashley now applies those lessons to Arizona’s booming real estate market."
+    },
+    "expertise": [
+      "Real estate tokenization",
+      "AI & machine learning roadmaps",
+      "Go-to-market and capital strategy",
+      "Regulatory compliance (KYC/AML, REIT, securities)",
+      "Conscious leadership development"
+    ]
+  },
+  "mission": {
+    "headline": "Transform Arizona into the premier destination for regulated freedom technologies.",
+    "pillars": [
+      {
+        "title": "Supportive Ecosystem",
+        "description": "Leverage collaborative peers, Arizona Tech Council relationships, and pro-business policy to accelerate founders."
+      },
+      {
+        "title": "Compliant Innovation",
+        "description": "Build tokenization stacks that integrate legal frameworks, transfer agents, and investor protections from day one."
+      },
+      {
+        "title": "Global Capital Access",
+        "description": "Open fractional ownership channels for international investors while lowering CAC and expanding reach."
+      }
+    ]
+  },
+  "project": {
+    "name": "Galaxy Consulting",
+    "problem": "Developers and asset managers struggle to unify legal, technical, and investor workflows when tokenizing real estate or launching freedom-tech ventures.",
+    "solution": "Galaxy Consulting orchestrates end-to-end tokenization programs—bridging Web2 UX with Web3 security—while advising founders on AI product ops, compliance, and capital strategy.",
+    "value_proposition": [
+      "Architect REIT-compliant tokenization platforms that integrate KYC/AML, transfer-agency, and marketing funnels.",
+      "Reduce customer acquisition cost by 30% through data-driven onboarding flows and global broker partnerships.",
+      "Unlock fractional ownership and secondary liquidity for commercial and resort developments across Arizona and beyond."
+    ],
+    "experience": {
+      "headline": "What working with Ashley feels like.",
+      "copy": [
+        "Co-create tokenization playbooks tailored to the regulatory landscape of each jurisdiction.",
+        "Map GTM campaigns for real estate, proptech, medtech, and data center ventures seeking compliant scale.",
+        "Plug into Arizona’s freedom-tech community—BitAngels, Stand With Crypto, Arizona Tech Council—to recruit talent and capital."
+      ]
+    },
+    "features": [
+      "REIT-compliant smart contract architecture",
+      "Investor onboarding funnels with automated KYC/AML",
+      "Token issuance, custody, and secondary trading workflows",
+      "AI-enabled underwriting and asset optimization",
+      "Board-level advisory across emerging tech portfolios"
+    ],
+    "traction": {
+      "platforms_built": "Led tokenization for a commercial developer in Las Vegas and fractional-residential portfolios exceeding $30M at Lofty AI.",
+      "ecosystem_role": "Active collaborator within Arizona’s freedom-tech community, guiding builders migrating to the state’s supportive canvas."
+    },
+    "call_to_action": {
+      "headline": "Ready to tokenize your next development?",
+      "primary_cta": {
+        "label": "Book a Strategy Session",
+        "href": "https://cal.com/galaxyconsulting/tokenization"
+      },
+      "secondary_cta": {
+        "label": "Request Regulatory Audit",
+        "href": "mailto:compliance@galaxyconsulting.co"
+      }
+    }
+  },
+  "highlights": [
+    "Advises proptech, medtech, and data center ventures on AI, operations, and capital strategy.",
+    "Architected a Web2-friendly, Web3-secure tokenization platform at Growth Holdings, cutting CAC by 30%.",
+    "EVP at Lofty AI, scaling a $30M fractional-real-estate portfolio with automated underwriting and partnerships.",
+    "Led liquid-cooling data center strategy at Mx3 and sourced climate-tech deals as Venture Partner at Kori Capital.",
+    "MIT-trained, INSEAD MBA leader committed to conscious business practices and board-level advisory."
+  ],
+  "quotes": [
+    {
+      "speaker": "Ashley",
+      "text": "I moved here for family, but I’m staying for business—the ecosystem feels like a canvas we get to paint together."
+    },
+    {
+      "speaker": "Ashley",
+      "text": "Arizona offers support from peers and government. We have the tools to build beautiful things, and we haven’t even hit our stride."
+    },
+    {
+      "speaker": "Ashley",
+      "text": "I’ve tokenized residential and commercial real estate—from Scottsdale to Las Vegas—and I’m bringing those lessons home."
+    },
+    {
+      "speaker": "Ashley",
+      "text": "Every country has its own rules. In the U.S. we may be more regulated, but that’s changing—and compliant innovation wins."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Early Career",
+      "event": "Scaled Advertising.com’s revenue to $20M+ before AOL acquisition and led L’Oréal’s $25M global digital transformation."
+    },
+    {
+      "year": "2012",
+      "event": "Founded Galaxy Consulting to guide emerging tech ventures with conscious business practices."
+    },
+    {
+      "year": "2021",
+      "event": "Served as EVP Strategy & Operations at Lofty AI, automating fractional-investment underwriting."
+    },
+    {
+      "year": "2023",
+      "event": "Joined Growth Holdings as Managing Director to build a REIT-compliant real estate tokenization platform."
+    },
+    {
+      "year": "2024+",
+      "event": "Championing Arizona’s freedom-tech renaissance—tokenizing assets, advising founders, and expanding global capital access."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Arizona Tech Council",
+      "relation": "Ecosystem ally",
+      "highlight": "Provides regulatory and community support for freedom-tech builders."
+    },
+    {
+      "name": "BitAngels & Stand With Crypto",
+      "relation": "Network collaborators",
+      "highlight": "Create stages for tokenization leaders to share best practices with Arizona’s investor community."
+    },
+    {
+      "name": "Growth Holdings & Lofty AI",
+      "relation": "Client partners",
+      "highlight": "Implemented Ashley’s tokenization roadmaps to attract global investors and automate asset performance."
+    }
+  ],
+  "contact": {
+    "press": "press@galaxyconsulting.co",
+    "partnerships": "partners@galaxyconsulting.co",
+    "investors": "investors@galaxyconsulting.co",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ashleysawdaye",
+      "x": "https://x.com/galaxy_sawdaye"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Arizona Freedom-Tech Forum",
+      "url": "assets/galaxy-events/IMG_9394.JPG",
+      "thumbnail": "assets/galaxy-events/IMG_9394-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Tokenization Strategy Workshop",
+      "url": "assets/galaxy-events/IMG_9332.JPG",
+      "thumbnail": "assets/galaxy-events/IMG_9332-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Scottsdale PropTech Roundtable",
+      "url": "assets/galaxy-events/IMG_9274.jpg",
+      "thumbnail": "assets/galaxy-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Real Estate Tokenization Case Study",
+      "url": "https://videos.example.com/galaxy-tokenization-case-study.mp4",
+      "thumbnail": "assets/galaxy-events/galaxy-case-thumb.jpg"
+    }
+  ]
+}
+

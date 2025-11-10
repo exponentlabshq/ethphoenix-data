@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "title": "Joshua \"0xJoshua\" | CEO, Azos",
+    "description": "Meet Joshua, the founder of Azos, building a stablecoin reserve for the regenerative economy backed by climate-positive real-world assets.",
+    "keywords": [
+      "Joshua",
+      "0xJoshua",
+      "Azos",
+      "AZUSD",
+      "climate stablecoin",
+      "regenerative finance",
+      "impact DeFi",
+      "Base blockchain"
+    ]
+  },
+  "hero": {
+    "name": "Joshua \"0xJoshua\"",
+    "title": "Founder & CEO, Azos",
+    "tagline": "Turning speculation into sustainability with the world’s first climate-backed stablecoin.",
+    "primary_cta": {
+      "label": "Launch Azos App",
+      "href": "https://app.azos.finance"
+    },
+    "secondary_cta": {
+      "label": "Join the Azos Discord",
+      "href": "https://discord.gg/azos"
+    },
+    "media": {
+      "portrait": "assets/azos-josh-portrait.jpg",
+      "background": "assets/azos-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Joshua blends DC policy experience with Web3 engineering to build Azos—the stablecoin reserve supporting climate-positive collateral and permissionless credit.",
+    "origin_story": {
+      "headline": "From policy halls to regenerative finance.",
+      "copy": "After years operating in Washington D.C. and Web3 communities like SportDAO and CryptoChicks, Joshua launched Azos to align DeFi incentives with climate resilience."
+    },
+    "inflection_point": {
+      "headline": "Live demo that won Ethereum Phoenix.",
+      "copy": "At ETHPhoenix and BitAngels, Joshua’s live CDP demo minted AZUSD on stage—proving that climate-backed stablecoins can be as seamless as any DeFi product."
+    },
+    "expertise": [
+      "Stablecoin architecture",
+      "Real-world asset tokenization",
+      "Climate finance",
+      "DeFi policy & advocacy",
+      "Product storytelling"
+    ]
+  },
+  "mission": {
+    "headline": "Build the reserve currency of the regenerative economy.",
+    "pillars": [
+      {
+        "title": "Impact Collateral",
+        "description": "Back AZUSD with renewable energy certificates, carbon credits, green bonds, and climate-positive debt."
+      },
+      {
+        "title": "Permissionless Credit",
+        "description": "Offer instant loans without banks, paperwork, or credit checks—24/7 liquidity secured by on-chain assets."
+      },
+      {
+        "title": "Values-Aligned Money",
+        "description": "Let every transaction fund sustainable infrastructure while delivering competitive yields."
+      }
+    ]
+  },
+  "project": {
+    "name": "Azos Finance",
+    "problem": "Stablecoins either rely on opaque centralized treasuries or speculative DeFi loops, ignoring real-world impact.",
+    "solution": "Azos issues AZUSD, a Base-native stablecoin collateralized by climate-positive RWAs and governed by third-generation AMO technology for automated supply management.",
+    "value_proposition": [
+      "Mint AZUSD against climate collateral and earn yields that fund renewable infrastructure.",
+      "Open collateralized debt positions (CDPs) with ETH and receive instant, permissionless credit.",
+      "Convert speculation into sustainability by letting traders support carbon removal, solar, and resilient municipal projects."
+    ],
+    "experience": {
+      "headline": "DeFi, meet regenerative finance.",
+      "copy": [
+        "Launch the Azos app, connect your wallet on Base, and open a CDP in minutes.",
+        "Track collateral backed by partners like KlimaDAO, Helios, Glo Dollar, and Power Ledger.",
+        "Join a community that explains collateral, liquidations, and impact in plain language—or talk directly with the team on Discord."
+      ]
+    },
+    "features": [
+      "Climate-backed stablecoin (AZUSD)",
+      "Automated Market Operator (AMO) supply control",
+      "Real-world asset integrations: carbon credits, RECs, PPAs, impact bonds",
+      "Permissionless lending protocol with instant liquidity",
+      "Transparent collateral map and impact reporting"
+    ],
+    "traction": {
+      "ecosystem": "Partnerships across KlimaDAO, Helios, Glo Dollar, Toucan, Base, Gitcoin, Regen Network, and more.",
+      "pilots": "Exploring municipal pilots in regions like Baltimore and Arizona to fund water security and climate resilience."
+    },
+    "call_to_action": {
+      "headline": "Ready to mint the future of money?",
+      "primary_cta": {
+        "label": "Mint AZUSD Today",
+        "href": "https://app.azos.finance/mint"
+      },
+      "secondary_cta": {
+        "label": "Request an Institutional Demo",
+        "href": "mailto:hello@azos.finance"
+      }
+    }
+  },
+  "highlights": [
+    "Championing third-generation DeFi that turns climate debt into collateral.",
+    "Built a live demo that opened a CDP and minted AZUSD on stage—judges called it the moment of ETHPhoenix.",
+    "Believes Arizona can fund water security and sustainable infrastructure by putting municipal bonds on-chain.",
+    "Former DC operator now advocating for sensible crypto policy alongside Stand With Crypto.",
+    "Assembled a trusted team of Web3 builders—penguin (CTO), gnOme (VP Engineering), Salky (Web3 Dev), Bohn (Design), Kristy (COO)."
+  ],
+  "quotes": [
+    {
+      "speaker": "Joshua",
+      "text": "The reason we exist—the good side of crypto—is that dollars aren’t backed by anything. We can do better."
+    },
+    {
+      "speaker": "Joshua",
+      "text": "We built a fundamentally stable DeFi platform that happens to use climate debt and climate finance assets as collateral."
+    },
+    {
+      "speaker": "Joshua",
+      "text": "We’re not asking for donations. Use this platform, make money, and let sustainable projects share in the upside."
+    },
+    {
+      "speaker": "Joshua",
+      "text": "If we can put municipal climate bonds on chain and let the world speculate on them—game over for funding shortfalls."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Policy Foundations",
+      "event": "Built relationships in Washington D.C., advocating for sensible crypto regulation."
+    },
+    {
+      "year": "Web3 Ecosystem",
+      "event": "Served on the board of SportDAO and collaborated with CryptoChicks, deepening ties to global founders."
+    },
+    {
+      "year": "Azos Formation",
+      "event": "Assembled the Azos team and launched AMO-driven stablecoin research focused on climate collateral."
+    },
+    {
+      "year": "ETHPhoenix Breakthrough",
+      "event": "Demonstrated AZUSD live, opening CDPs with ETH and showcasing climate-backed collateral to BitAngels judges."
+    },
+    {
+      "year": "Global Coordination Layer",
+      "event": "Expanding pilots with municipal partners and impact asset providers to fund resilient infrastructure."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "KlimaDAO",
+      "relation": "Climate collateral partner",
+      "highlight": "Provides carbon-backed assets that secure AZUSD."
+    },
+    {
+      "name": "Helios",
+      "relation": "Renewable energy partner",
+      "highlight": "Onboards solar financing opportunities for Azos collateral pools."
+    },
+    {
+      "name": "Glo Dollar",
+      "relation": "Public goods ally",
+      "highlight": "Aligns AZUSD with stablecoin profits that fund global public goods."
+    },
+    {
+      "name": "Gitcoin & Toucan",
+      "relation": "Impact ecosystem partners",
+      "highlight": "Help route capital to regenerative projects across Web3."
+    }
+  ],
+  "contact": {
+    "press": "press@azos.finance",
+    "partnerships": "partners@azos.finance",
+    "investors": "investors@azos.finance",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/azos-finance",
+      "x": "https://x.com/0xJoshuaSL"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Live CDP Demo at ETHPhoenix",
+      "url": "assets/azos-events/IMG_9394.JPG",
+      "thumbnail": "assets/azos-events/IMG_9394-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Azos Team Strategy Session",
+      "url": "assets/azos-events/IMG_9274.jpg",
+      "thumbnail": "assets/azos-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Climate Collateral Map",
+      "url": "assets/azos-events/IMG_9438.jpg",
+      "thumbnail": "assets/azos-events/IMG_9438-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Azos Stablecoin Walkthrough",
+      "url": "https://videos.example.com/azos-stablecoin-demo.mp4",
+      "thumbnail": "assets/azos-events/azos-demo-thumb.jpg"
+    }
+  ]
+}
+

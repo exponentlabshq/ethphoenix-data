@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "title": "Eric | Director, BitAngels Arizona",
+    "description": "Meet Eric, the BitAngels leader cultivating Arizona’s blockchain founders and investors through collaborative pitch ecosystems.",
+    "keywords": [
+      "Eric",
+      "BitAngels Arizona",
+      "blockchain investing",
+      "startup ecosystem",
+      "Web3 founders",
+      "Arizona tech community"
+    ]
+  },
+  "hero": {
+    "name": "Eric",
+    "title": "Director, BitAngels Arizona",
+    "tagline": "Launching breakthroughs by connecting Arizona’s top blockchain builders with capital and community.",
+    "primary_cta": {
+      "label": "Join the Arizona Chapter",
+      "href": "https://www.bitangels.network/cities/phoenix"
+    },
+    "secondary_cta": {
+      "label": "Pitch at the Next Event",
+      "href": "https://www.bitangels.network/pitch"
+    },
+    "media": {
+      "portrait": "assets/bitangels-eric-portrait.jpg",
+      "background": "assets/bitangels-phoenix-stage.jpg"
+    }
+  },
+  "about": {
+    "summary": "Eric convenes developers, financiers, and founders to turn Arizona into a catalyst for the next generation of digital asset innovation.",
+    "origin_story": {
+      "headline": "Building an ecosystem, not just events.",
+      "copy": "With years of experience growing Arizona’s startup community, Eric recognized the need for a disciplined investor network and partnered with BitAngels to launch one."
+    },
+    "inflection_point": {
+      "headline": "From problems to breakthroughs.",
+      "copy": "By curating founders who focus on political, legal, and regulatory excellence, Eric helped shift local discourse from hype to durable breakthroughs."
+    },
+    "expertise": [
+      "Community building",
+      "Investor relations",
+      "Regulatory-conscious founder support",
+      "Event production"
+    ]
+  },
+  "mission": {
+    "headline": "Cultivate a collaborative Arizona hub where blockchain founders thrive with the right capital and guidance.",
+    "pillars": [
+      {
+        "title": "Breakthrough Mindset",
+        "description": "Encourage founders to create futures worth living in, not just incremental fixes."
+      },
+      {
+        "title": "Collaborative Competition",
+        "description": "Foster a pitch environment where elite teams push each other while sharing insights."
+      },
+      {
+        "title": "Ecosystem Support",
+        "description": "Connect developers, financiers, and partners so solutions compound beyond any single project."
+      }
+    ]
+  },
+  "project": {
+    "name": "BitAngels Arizona",
+    "problem": "Arizona’s fast-growing blockchain sector needed structured capital connections and disciplined evaluation criteria.",
+    "solution": "BitAngels Arizona brings together mission-driven founders and investors through curated pitch competitions, mentorship, and partnership with the global BitAngels network.",
+    "value_proposition": [
+      "Showcase the region’s strongest blockchain builders to an active investor audience.",
+      "Lean on political, legal, and regulatory expertise to de-risk ambitious ventures.",
+      "Tap into a global community of 55,000+ members for capital, mentorship, and deal flow."
+    ],
+    "experience": {
+      "headline": "Welcome to BitAngels Arizona, where collaboration fuels the next wave of Web3 success.",
+      "copy": [
+        "Pitch events spotlight founders tackling real-world infrastructure, compliance, and municipal-scale challenges.",
+        "Investors and partners gain insider access to projects shaping the future of digital assets in the Western Hemisphere.",
+        "Every gathering reinforces a community-first ethos—press play, press fund, and build the future together."
+      ]
+    },
+    "features": [
+      "Monthly Phoenix pitch competitions",
+      "Curated introductions to capital partners",
+      "Workshops on regulatory compliance and GAAP standards",
+      "Integration with global BitAngels programming"
+    ],
+    "traction": {
+      "community_growth": "55,000+ members across Arizona tapping into BitAngels resources and deal flow.",
+      "breakthrough_founders": "Highlighted ventures like collateralized debt platforms enabling municipalities to keep the lights on."
+    },
+    "call_to_action": {
+      "headline": "Ready to help shape Arizona’s blockchain future?",
+      "primary_cta": {
+        "label": "Attend the Next Pitch Event",
+        "href": "https://www.bitangels.network/calendar"
+      },
+      "secondary_cta": {
+        "label": "Support the Ecosystem",
+        "href": "mailto:phoenix@bitangels.network"
+      }
+    }
+  },
+  "highlights": [
+    "Eric curates one of the stiffest blockchain pitch competitions in the region, emphasizing compliance and sustainability.",
+    "Connects talented developers, financiers, and founders to build a thriving Arizona ecosystem.",
+    "Champions collaborative competition, where teams push each other toward a better future.",
+    "Believes the community is on the cusp of breakthroughs that will redefine digital asset innovation."
+  ],
+  "quotes": [
+    {
+      "speaker": "Eric",
+      "text": "We’ve been looking at these problems for quite a while, and I think we’re at that catalyst where things are going to pop."
+    },
+    {
+      "speaker": "Eric",
+      "text": "It’s really exciting to be creating a future instead of trying to solve just problems."
+    },
+    {
+      "speaker": "Eric",
+      "text": "We’ve had a group of talented developers, financiers, and BitAngels tries to connect companies, founders with capital."
+    },
+    {
+      "speaker": "Eric",
+      "text": "I just see amazing talent and a future worth living inside of."
+    },
+    {
+      "speaker": "Eric",
+      "text": "Competition is really a good thing because this is a collaborative effort."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Community Foundations",
+      "event": "Eric organizes Arizona blockchain meetups and identifies demand for structured investor access."
+    },
+    {
+      "year": "BitAngels Partnership",
+      "event": "Launches the BitAngels Arizona chapter to connect founders, financiers, and developers."
+    },
+    {
+      "year": "Breakthrough Pitch Competitions",
+      "event": "Hosts showcases featuring ventures like collateralized municipal infrastructure platforms."
+    },
+    {
+      "year": "Catalyst Moment",
+      "event": "Community reaches 55,000+ members aligned around collaborative breakthroughs."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "BitAngels Global Network",
+      "relation": "Strategic partner providing investor reach and programming.",
+      "highlight": "Connects chapters worldwide to share insights, opportunities, and deal flow."
+    },
+    {
+      "name": "Local Arizona Founders",
+      "relation": "Pitch competition alumni and collaborators.",
+      "highlight": "Demonstrate the talent and drive shaping a future worth living in."
+    }
+  ],
+  "contact": {
+    "press": "press@bitangels.network",
+    "partnerships": "partners@bitangels.network",
+    "investors": "investors@bitangels.network",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/bitangels",
+      "x": "https://x.com/bitangels"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "BitAngels Arizona Pitch Night",
+      "url": "assets/bitangels-events/20250227_150249.jpg",
+      "thumbnail": "assets/bitangels-events/20250227_150249-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Arizona Blockchain Community",
+      "url": "assets/bitangels-events/20250227_104332.jpg",
+      "thumbnail": "assets/bitangels-events/20250227_104332-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "BitAngels Collaborative Sessions",
+      "url": "assets/bitangels-events/WhatsApp-Image-2024-10-31-at-21.26.20.jpeg",
+      "thumbnail": "assets/bitangels-events/WhatsApp-Image-2024-10-31-at-21.26.20-thumb.jpeg"
+    },
+    {
+      "type": "video",
+      "title": "Arizona Pitch Highlights",
+      "url": "https://www.youtube.com/playlist?list=bitangels-arizona",
+      "thumbnail": "assets/bitangels-events/arizona-highlights-thumb.jpg"
+    }
+  ]
+}
+

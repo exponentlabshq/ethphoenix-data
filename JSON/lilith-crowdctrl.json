@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Lilith Froude | Founder, Crowd Ctrl",
+    "description": "Meet Lilith Froude, the AI-driven entrepreneur building Crowd Ctrl—a blockchain ticketing platform that restores value to artists, fans, and venues.",
+    "keywords": [
+      "Lilith Froude",
+      "Crowd Ctrl",
+      "blockchain ticketing",
+      "Web3 events",
+      "Arizona blockchain council",
+      "AI entrepreneur"
+    ]
+  },
+  "hero": {
+    "name": "Lilith Froude",
+    "title": "Founder & CEO, Crowd Ctrl | Secretary, Arizona Blockchain Council",
+    "tagline": "Control the ticket. Own the experience.",
+    "primary_cta": {
+      "label": "Explore Crowd Ctrl",
+      "href": "https://www.crowdctrl.io"
+    },
+    "secondary_cta": {
+      "label": "Request a Pilot",
+      "href": "mailto:hello@crowdctrl.io"
+    },
+    "media": {
+      "portrait": "assets/crowdctrl-lilith-portrait.jpg",
+      "background": "assets/crowdctrl-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Lilith Froude is a builder at heart—pairing an entrepreneurship degree with an MS in Artificial Intelligence to reinvent ticketing for artists, organizers, and fans.",
+    "origin_story": {
+      "headline": "From Algorand intern to Web3 founder.",
+      "copy": "Lilith’s internships at Algorand Foundation sparked her fascination with decentralized systems, inspiring her to create Crowd Ctrl after hearing the pain points of artists and concert-goers firsthand."
+    },
+    "inflection_point": {
+      "headline": "Pitching at BitAngels and ETHPhoenix.",
+      "copy": "Presenting Crowd Ctrl at the BitAngels pitchfest during ETHPhoenix validated the vision: Arizona is ready for ticketing that blends policy alignment, community engagement, and Web3 transparency."
+    },
+    "expertise": [
+      "Blockchain ticketing",
+      "Generative AI experiences",
+      "Go-to-market strategy",
+      "Community partnerships",
+      "Product design & UX"
+    ]
+  },
+  "mission": {
+    "headline": "Empower artists, organizers, and fans with transparent, equitable ticketing.",
+    "pillars": [
+      {
+        "title": "Artist Autonomy",
+        "description": "Deliver faster settlements and higher margins for independent artists and venues."
+      },
+      {
+        "title": "Fair Access",
+        "description": "Eliminate scalper arbitrage and junk fees with blockchain-enforced ticket logic."
+      },
+      {
+        "title": "Immersive Experience",
+        "description": "Blend interactive 3D storytelling and AI with every event touchpoint."
+      }
+    ]
+  },
+  "project": {
+    "name": "Crowd Ctrl",
+    "problem": "Ticketmaster and Live Nation dominate venues, inflating fees for fans, delaying payouts for artists, and locking organizers into restrictive contracts.",
+    "solution": "Crowd Ctrl is a blockchain-powered ticketing platform that minimizes fees, deters scalping, and accelerates post-show settlements while giving fans ownership-grade experiences.",
+    "value_proposition": [
+      "Keep ticket fees low and route more revenue directly to artists and organizers.",
+      "Leverage smart contracts to enforce resale rules and reduce scalper impact.",
+      "Deliver payments to artists faster through on-chain settlement rails.",
+      "Offer interactive fan experiences—from NFT collectibles to immersive site design."
+    ],
+    "experience": {
+      "headline": "Ticketing reimagined for the digital-native fan.",
+      "copy": [
+        "Interactive 3D hero experiences welcome fans before the first scroll.",
+        "Pixel-perfect, glitch-inspired aesthetics amplify brand storytelling.",
+        "Live audio visualizers, hidden easter eggs, and Web3 collectibles reward community loyalty."
+      ]
+    },
+    "features": [
+      "Blockchain ticket issuance and resale governance",
+      "Dynamic pricing and revenue-sharing controls",
+      "On-chain settlement with escrow and instant payouts",
+      "Immersive front-end built with Lovable and MailerLite API integrations",
+      "Analytics dashboards for organizers and artists"
+    ],
+    "traction": {
+      "community_validation": "Presented at BitAngels Pitchfest and ETHPhoenix; steward for ETHPhoenix hackathon and AI Film 3 Culture Jam.",
+      "partnerships": "Collaborating with Arizona Blockchain Council, local venues, and independent artists to pilot Crowd Ctrl events."
+    },
+    "call_to_action": {
+      "headline": "Ready to control the ticket?",
+      "primary_cta": {
+        "label": "Book a Demo",
+        "href": "https://www.crowdctrl.io/demo"
+      },
+      "secondary_cta": {
+        "label": "Join the Creator Beta",
+        "href": "https://www.crowdctrl.io/beta"
+      }
+    }
+  },
+  "highlights": [
+    "Entrepreneurship graduate pursuing an MS in Artificial Intelligence at Arizona State University.",
+    "Secretary of the Arizona Blockchain Council, liaising with policymakers, universities, and industry leaders.",
+    "Built Crowd Ctrl’s immersive website featuring interactive 3D, audio-reactive visuals, and API-powered community integrations.",
+    "Chooses policy alignment, community engagement, and product value over competing directly with incumbents.",
+    "Balances music roots (trumpet, trombone, steel pan) with blockchain engineering sensibilities."
+  ],
+  "quotes": [
+    {
+      "speaker": "Lilith Froude",
+      "text": "Crowd Ctrl is a ticketing company using blockchain technology to enhance the consumer experience and organize the organizer’s experience."
+    },
+    {
+      "speaker": "Lilith Froude",
+      "text": "Fans hate the fees and scalpers—artists hate waiting weeks to get paid. We can fix both sides with the right tech."
+    },
+    {
+      "speaker": "Lilith Froude",
+      "text": "Ticketmaster has a monopoly, but numbers don’t lie. They only own a fraction of the market—we focus on delivering better value."
+    },
+    {
+      "speaker": "Lilith Froude",
+      "text": "Aligning with policy and building community is the recipe that will change people’s lives."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2023",
+      "event": "Intered at Algorand Foundation, sparking the idea for blockchain-powered ticketing."
+    },
+    {
+      "year": "2024",
+      "event": "Founded Crowd Ctrl after researching pain points with artists, venues, and fans."
+    },
+    {
+      "year": "2024",
+      "event": "Accepted as Secretary of the Arizona Blockchain Council to drive education and policy alignment."
+    },
+    {
+      "year": "2025",
+      "event": "Presented Crowd Ctrl at BitAngels Pitchfest during ETHPhoenix; joined AI Film 3 as a steward."
+    },
+    {
+      "year": "2025",
+      "event": "Building immersive Crowd Ctrl platform with Lovable and launching creator beta pilots."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "AI Film 3 / ETHPhoenix",
+      "relation": "Event partner",
+      "highlight": "Provides stage time, hackathon stewardship, and cross-pollination with film and AI creators."
+    },
+    {
+      "name": "Arizona Blockchain Council",
+      "relation": "Policy and ecosystem collaborator",
+      "highlight": "Supports education and regulatory alignment for blockchain innovation statewide."
+    },
+    {
+      "name": "Independent Artists & Venues",
+      "relation": "Pilot customers",
+      "highlight": "Co-design ticketing flows that prioritize fair fees, anti-scalping, and faster payouts."
+    }
+  ],
+  "contact": {
+    "press": "press@crowdctrl.io",
+    "partnerships": "partners@crowdctrl.io",
+    "investors": "investors@crowdctrl.io",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/lilithfroude",
+      "x": "https://x.com/crowdctrl_io"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Crowd Ctrl Pitch at BitAngels",
+      "url": "assets/crowdctrl-events/IMG_9335.JPG",
+      "thumbnail": "assets/crowdctrl-events/IMG_9335-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "ETHPhoenix Creative Track",
+      "url": "assets/crowdctrl-events/IMG_9395.JPG",
+      "thumbnail": "assets/crowdctrl-events/IMG_9395-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Arizona Blockchain Council Session",
+      "url": "assets/crowdctrl-events/IMG_8517 copy.jpg",
+      "thumbnail": "assets/crowdctrl-events/IMG_8517-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Crowd Ctrl Product Tour",
+      "url": "https://videos.example.com/crowdctrl-product-tour.mp4",
+      "thumbnail": "assets/crowdctrl-events/crowdctrl-tour-thumb.jpg"
+    }
+  ]
+}
+

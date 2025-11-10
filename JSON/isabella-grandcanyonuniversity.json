@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "Isabella | Director, Canyon Angels at Grand Canyon University",
+    "description": "Discover how Isabella is shaping Arizona’s startup future through faith-driven leadership at Grand Canyon University’s student-run angel network.",
+    "keywords": [
+      "Isabella",
+      "Canyon Angels",
+      "Grand Canyon University",
+      "student angel investing",
+      "faith-driven entrepreneurship",
+      "Phoenix startup ecosystem"
+    ]
+  },
+  "hero": {
+    "name": "Isabella",
+    "title": "Director, Canyon Angels | Business Leadership Student, Grand Canyon University",
+    "tagline": "Forming servant leaders who can diligence a startup better than its CEO.",
+    "primary_cta": {
+      "label": "Partner with Canyon Angels",
+      "href": "https://www.canyonangels.org"
+    },
+    "secondary_cta": {
+      "label": "Invite Isabella to Speak",
+      "href": "mailto:isabella@canyonangels.org"
+    },
+    "media": {
+      "portrait": "assets/gcu-isabella-portrait.jpg",
+      "background": "assets/gcu-campus-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Originally from Washington State, Isabella chose Grand Canyon University for its faith-based business ecosystem and now directs the only student-run angel group of its kind.",
+    "origin_story": {
+      "headline": "Choosing GCU through faith and calling.",
+      "copy": "While weighing six colleges, Isabella prayed for guidance and felt a clear call to GCU—drawn by Tim Kelley’s entrepreneurship program, Idea Club, and Canyon Angels."
+    },
+    "inflection_point": {
+      "headline": "From student analyst to director.",
+      "copy": "Two and a half years after joining Canyon Angels as a freshman analyst, Isabella now leads investor relations, due diligence training, and pitch events that serve Arizona’s founders."
+    },
+    "expertise": [
+      "Startup due diligence",
+      "Angel investor relations",
+      "Servant leadership",
+      "Faith-driven mentorship",
+      "Venture ecosystem building"
+    ]
+  },
+  "mission": {
+    "headline": "Equip servant leaders to steward capital for ventures that make Arizona a place worth living in.",
+    "pillars": [
+      {
+        "title": "Faith-Led Formation",
+        "description": "Anchor every investment decision in prayer, purpose, and servant leadership values."
+      },
+      {
+        "title": "Founder-Ready Talent",
+        "description": "Train students to run world-class diligence so investors can move faster on breakthrough companies."
+      },
+      {
+        "title": "Arizona First",
+        "description": "Support the state’s chips, biotech, and frontier-tech expansion with grassroots investment readiness."
+      }
+    ]
+  },
+  "project": {
+    "name": "Canyon Angels",
+    "problem": "Investors lack the time to evaluate early-stage deals, while students rarely get real-world venture experience.",
+    "solution": "Canyon Angels is GCU’s student-operated angel group: teams spend a month interviewing CEOs, auditing financials, and presenting five-minute diligence briefs to a live investor audience.",
+    "value_proposition": [
+      "Give investors curated diligence without adding headcount.",
+      "Develop faith-driven analysts who can explain complex ventures in plain English.",
+      "Connect founders with a responsive Arizona investor base focused on early-stage innovation."
+    ],
+    "experience": {
+      "headline": "Inside a Canyon Angels pitch night.",
+      "copy": [
+        "Deal-flow captains source startups and funnel three per month to student teams.",
+        "Teams of 6–10 analysts interview CEOs, customers, and industry experts for thirty days.",
+        "Founders pitch for ten minutes, followed by student diligence reports that surface everything investors need to know."
+      ]
+    },
+    "features": [
+      "Student-led due diligence sprints",
+      "Medtech and frontier-tech expertise from faculty mentors",
+      "Investor pitch forums with 40+ active attendees",
+      "Faith-based servant leadership curriculum embedded in every role"
+    ],
+    "traction": {
+      "ecosystem_reach": "Ten-year track record, 25+ paying investor members, and partnerships with AZVC, Monsoon Ventures, Venture Café, and international delegations.",
+      "student_impact": "Teams learn to underwrite companies faster than CEOs can pitch, fueling career readiness across Arizona’s startup economy."
+    },
+    "call_to_action": {
+      "headline": "Ready to engage with Canyon Angels?",
+      "primary_cta": {
+        "label": "Submit Your Startup",
+        "href": "https://www.canyonangels.org/apply"
+      },
+      "secondary_cta": {
+        "label": "Support Student Analysts",
+        "href": "mailto:partnerships@canyonangels.org"
+      }
+    }
+  },
+  "highlights": [
+    "Leads the only student-run angel investor group operating inside a faith-based university.",
+    "Guides students through medtech-heavy diligence with faculty experts like Mike Lang.",
+    "Believes Arizona can become the Silicon Desert thanks to chips, NVIDIA, TSMC, and mission-aligned capital.",
+    "Speaks openly about servant leadership—shaped by John C. Maxwell principles and her grandmother’s entrepreneurial legacy.",
+    "Advocates for viewing wealth as stewardship: “If God blesses me, let me be the keeper of His warehouse.”"
+  ],
+  "quotes": [
+    {
+      "speaker": "Isabella",
+      "text": "Canyon Angels is the only college group that has its own student-run and operated angel investment group."
+    },
+    {
+      "speaker": "Isabella",
+      "text": "We teach students to go from knowing nothing to explaining a company to investors better than the CEO."
+    },
+    {
+      "speaker": "Isabella",
+      "text": "Everything I do is because God placed me here—and every opportunity has been because He put me where I’m supposed to be."
+    },
+    {
+      "speaker": "Isabella",
+      "text": "Arizona is a blank slate. The economy is coming to us, and we’re being prepared to steward it."
+    },
+    {
+      "speaker": "Isabella",
+      "text": "He puts us in positions not because we’re qualified—but so we have to rely on Him to be qualified."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "College Decision",
+      "event": "Prayed for direction and chose Grand Canyon University for its faith-based entrepreneurship ecosystem."
+    },
+    {
+      "year": "Year 1",
+      "event": "Joined Canyon Angels as a student analyst, conducting diligence on medtech and frontier-tech startups."
+    },
+    {
+      "year": "Year 2",
+      "event": "Advanced to team lead and investor relations, coordinating 40+ attending angels per pitch night."
+    },
+    {
+      "year": "Year 3",
+      "event": "Named Director of Canyon Angels, managing deal flow collaboration with AZVC, Monsoon Ventures, and Venture Café."
+    },
+    {
+      "year": "Future Vision",
+      "event": "Preparing the next generation of servant leaders to support Arizona’s chip, biotech, and Web3 expansion."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Tim Kelley",
+      "relation": "Program founder & mentor",
+      "highlight": "Built Idea Club and Canyon Angels to make GCU the benchmark for faith-driven entrepreneurship education."
+    },
+    {
+      "name": "Mike Lang",
+      "relation": "Faculty advisor",
+      "highlight": "Guides student diligence in biotech and engineering ventures with real-world expertise."
+    },
+    {
+      "name": "Arizona Venture Partners & Monsoon Ventures",
+      "relation": "Investor allies",
+      "highlight": "Provide early-stage capital pathways for companies vetted by Canyon Angels students."
+    }
+  ],
+  "contact": {
+    "press": "press@canyonangels.org",
+    "partnerships": "partnerships@canyonangels.org",
+    "investors": "investors@canyonangels.org",
+    "social": {
+      "linkedin": "https://www.linkedin.com/school/grand-canyon-university",
+      "x": "https://x.com/CanyonAngels"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Canyon Angels Pitch Night",
+      "url": "assets/gcu-events/IMG_8517 copy.jpg",
+      "thumbnail": "assets/gcu-events/IMG_8517-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Investor Q&A Session",
+      "url": "assets/gcu-events/IMG_9438.jpg",
+      "thumbnail": "assets/gcu-events/IMG_9438-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "GCU Entrepreneurship Hub",
+      "url": "assets/gcu-events/IMG_9274.jpg",
+      "thumbnail": "assets/gcu-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Canyon Angels Overview",
+      "url": "https://videos.example.com/canyonangels-overview.mp4",
+      "thumbnail": "assets/gcu-events/canyonangels-overview-thumb.jpg"
+    }
+  ]
+}
+

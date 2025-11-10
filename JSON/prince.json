@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "title": "Prince | CEO of Cineblock",
+    "description": "Meet Prince, the CEO of Cineblock, democratizing access to film and entertainment financing through compliant, community-powered capital.",
+    "keywords": [
+      "Prince",
+      "Cineblock",
+      "entertainment financing",
+      "democratized capital",
+      "creative economy",
+      "film investment"
+    ]
+  },
+  "hero": {
+    "name": "Prince",
+    "title": "CEO & Co-Founder, Cineblock",
+    "tagline": "Authoring a new future for creators by opening capital access to everyone.",
+    "primary_cta": {
+      "label": "Join the Cineblock Movement",
+      "href": "https://cineblock.example.com/join"
+    },
+    "secondary_cta": {
+      "label": "Request Investor Information",
+      "href": "mailto:invest@cineblock.example.com"
+    },
+    "media": {
+      "portrait": "assets/prince-portrait.jpg",
+      "background": "assets/cineblock-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Prince is a lifelong creator who transformed his passion for entertainment into Cineblock, a platform giving artists and audiences the power to fund the stories they believe in.",
+    "origin_story": {
+      "headline": "Caught the entertainment bug early.",
+      "copy": "From high school DJ sets to stand-up comedy partnerships, Prince learned how shared moments move crowds and spark community."
+    },
+    "inflection_point": {
+      "headline": "Walkabout to wake-up call.",
+      "copy": "A personal search for purpose led Prince on a literal walkabout—hitchhiking, listening, and realizing that reality becomes malleable when you author your own story."
+    },
+    "expertise": [
+      "Entertainment entrepreneurship",
+      "Regulatory-compliant Web3 infrastructure",
+      "Community capital formation",
+      "Creative economy strategy"
+    ]
+  },
+  "mission": {
+    "headline": "Democratize access to capital for creators who have been locked out.",
+    "pillars": [
+      {
+        "title": "Authorship",
+        "description": "Empower creators and communities to write their own future without waiting for a Hollywood greenlight."
+      },
+      {
+        "title": "Accessibility",
+        "description": "Let 1,000 believers contribute $100 each and see their culture thrive."
+      },
+      {
+        "title": "Compliance",
+        "description": "Blend Web3 innovation with the legal certainty artists and investors deserve."
+      }
+    ]
+  },
+  "project": {
+    "name": "Cineblock",
+    "problem": "Traditional film and entertainment finance is gated by accredited investors, gatekeepers, and opaque networks.",
+    "solution": "Cineblock opens compliant, community-driven capital rails so creators can raise funds directly from the fans and investors who believe in them.",
+    "value_proposition": [
+      "Onboard creators with a clear path to compliant fundraising.",
+      "Activate fan communities with fractional participation in projects they love.",
+      "Deliver transparency that builds trust between artists, investors, and regulators."
+    ],
+    "experience": {
+      "headline": "Welcome to Cineblock, the film investing platform for movie lovers, risk takers, and enterprising filmmakers.",
+      "copy": [
+        "With a click of a button, anyone can back up-and-coming films or shows and share in the next viral sensation.",
+        "For the first time, audiences gain insider access to Hollywood’s money machine to research and profit from thousands of film projects.",
+        "Pitch, collaborate, and fund your own film or series idea directly from your phone—press play to press fund."
+      ]
+    },
+    "features": [
+      "Regulation-first fundraising workflows",
+      "Creator and investor autonomy dashboards",
+      "Education for emerging filmmakers and musicians",
+      "Bridging tools between Web2 familiarity and Web3 ownership"
+    ],
+    "traction": {
+      "regulatory_readiness": "Five years of legal, political, and compliance groundwork completed.",
+      "community_building": "Creators, professors, and early investors already championing the platform."
+    },
+    "call_to_action": {
+      "headline": "Ready to co-author the future of entertainment?",
+      "primary_cta": {
+        "label": "Launch Your Project",
+        "href": "https://cineblock.example.com/launch"
+      },
+      "secondary_cta": {
+        "label": "Invest with Cineblock",
+        "href": "https://cineblock.example.com/invest"
+      }
+    }
+  },
+  "highlights": [
+    "Prince blends fintech expertise with an entertainer’s instinct for crowd energy.",
+    "Believes autonomy, purpose, and access to capital should be within reach for every creator.",
+    "Sees fans as co-authors who deserve the upside of the culture they fund.",
+    "Grounded in faith, resilience, and a relentless belief that the time to act is always now."
+  ],
+  "quotes": [
+    {
+      "speaker": "Prince",
+      "text": "I am the author of my story—and when creators claim that authorship, nothing is unattainable."
+    },
+    {
+      "speaker": "Prince",
+      "text": "I caught the bug in high school about entertainment in general—what it is to create things and see people enjoy what you’re doing."
+    },
+    {
+      "speaker": "Prince",
+      "text": "I'm the author of all of that. If you take that approach to things, then things don’t seem unattainable."
+    },
+    {
+      "speaker": "Prince",
+      "text": "Money moves things. If we can open access to capital, people can finally fulfill their dreams."
+    },
+    {
+      "speaker": "Prince",
+      "text": "What was considered magic 100 years ago is science today. Let’s make autonomy the new normal."
+    },
+    {
+      "speaker": "Prince",
+      "text": "We’re trying to give people the autonomy to create their own path."
+    },
+    {
+      "speaker": "Prince",
+      "text": "The time is always right now."
+    },
+    {
+      "speaker": "Michael Jagdeo",
+      "text": "Through your experience, reality has become malleable—and Cineblock helps others feel that too."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "High School",
+      "event": "Discovered the thrill of entertainment while DJing and coordinating live events."
+    },
+    {
+      "year": "Walkabout Years",
+      "event": "Traveled the country, seeking purpose and unlocking a deterministic view of authorship."
+    },
+    {
+      "year": "Web3 Boom",
+      "event": "Saw the promise and pitfalls of unregulated ICOs, committing to a compliance-first alternative."
+    },
+    {
+      "year": "Cineblock Launch",
+      "event": "Built a platform that lets everyday believers invest in film, music, and cultural projects."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Professor, Orange Coast College",
+      "relation": "Early believer and investor who sparked the journey.",
+      "highlight": "“If you ever build something, I’ll invest in it.”"
+    }
+  ],
+  "contact": {
+    "press": "press@cineblock.example.com",
+    "partnerships": "partners@cineblock.example.com",
+    "investors": "invest@cineblock.example.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/cineblock",
+      "x": "https://x.com/cineblock"
+    }
+  },
+  "assets": [
+    {
+      "type": "video",
+      "title": "Prince on democratizing film finance",
+      "url": "https://videos.example.com/prince-cineblock-story.mp4",
+      "thumbnail": "assets/prince-cineblock-thumb.jpg"
+    }
+  ]
+}
+

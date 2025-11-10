@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "title": "Justin | Co-Founder & President, Pixel Palette Nation (PPN) & MyPalette",
+    "description": "Meet Justin, the curator-operator behind Pixel Palette Nation and MyPalette—building an artist-first platform that turns independent creators into globally visible talent.",
+    "keywords": [
+      "Justin",
+      "Pixel Palette Nation",
+      "PPN",
+      "MyPalette",
+      "digital art platform",
+      "artist community",
+      "AI art",
+      "creative economy"
+    ]
+  },
+  "hero": {
+    "name": "Justin",
+    "title": "Co-Founder & President, Pixel Palette Nation & MyPalette",
+    "tagline": "Your art. Your stage. Your success.",
+    "primary_cta": {
+      "label": "Join the MyPalette Community",
+      "href": "https://www.mypalette.xyz"
+    },
+    "secondary_cta": {
+      "label": "Enter the Latest Open Call",
+      "href": "https://www.mypalette.xyz/open-calls"
+    },
+    "media": {
+      "portrait": "assets/ppn-justin-portrait.jpg",
+      "background": "assets/ppn-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Justin launched Pixel Palette Nation during the 2021 generative AI boom to unite independent digital artists, curators, and galleries across continents.",
+    "origin_story": {
+      "headline": "Forged in the generative AI surge.",
+      "copy": "When creative barriers dropped in 2021, Justin saw artists still isolated from opportunity. He built PPN as a community and MyPalette as the platform to showcase talent globally."
+    },
+    "inflection_point": {
+      "headline": "From Discord rooms to world stages.",
+      "copy": "PPN’s open calls now place artists in exhibitions from Colorado to Albania, proving that digital-native curation can unlock real-world recognition and careers."
+    },
+    "expertise": [
+      "Community curation",
+      "Artist platform design",
+      "Mixed-media storytelling",
+      "Partnership development",
+      "Event production"
+    ]
+  },
+  "mission": {
+    "headline": "Build the premier launchpad where independent creators turn art into sustainable careers.",
+    "pillars": [
+      {
+        "title": "Artist-First Infrastructure",
+        "description": "Free submissions, portfolio tools, and curated showcases designed with—and for—artists."
+      },
+      {
+        "title": "Global Exposure",
+        "description": "Bridge traditional galleries with digital-native talent to deliver exhibitions, clients, and revenue."
+      },
+      {
+        "title": "Community Momentum",
+        "description": "Keep the 55,000-strong creative network growing through social audio, Discord, and collaborative events."
+      }
+    ]
+  },
+  "project": {
+    "name": "Pixel Palette Nation & MyPalette",
+    "problem": "Independent artists face fragmented communities, scarce exposure, and platforms that charge for visibility without delivering results.",
+    "solution": "PPN operates a curated community and the MyPalette platform to connect artists with galleries, brand clients, and global audiences—combining open calls, exhibitions, and career support under one roof.",
+    "value_proposition": [
+      "Showcase work alongside 150+ active artists with zero submission fees for open calls.",
+      "Access real gallery partnerships, corporate commissions, and curated exhibitions worldwide.",
+      "Leverage social audio, Discord programming, and event partnerships to build audiences fast."
+    ],
+    "experience": {
+      "headline": "Artist journey inside MyPalette.",
+      "copy": [
+        "Create a free portfolio in under a minute and tap into live open calls.",
+        "Receive curation feedback and mentorship from PPN community leads.",
+        "Land in exhibitions—from Ethereum Phoenix film showcases to international art festivals."
+      ]
+    },
+    "features": [
+      "Artist dashboards with portfolio analytics",
+      "Open calls spanning galleries, brands, and festivals",
+      "Hybrid digital/physical exhibitions across the US and Europe",
+      "Partnerships with Stand With Crypto, AI Film 3, and BitAngels events",
+      "Community programming via Discord, Spaces, and pop-up showcases"
+    ],
+    "traction": {
+      "community_scale": "55,000+ creatives, collectors, and partners interconnected across Arizona, Colorado, and global chapters.",
+      "platform_activity": "153 active artists, 69 live portfolios, and 8 active opportunities on MyPalette (and growing daily)."
+    },
+    "call_to_action": {
+      "headline": "Ready to turn your art into opportunity?",
+      "primary_cta": {
+        "label": "Start Your Portfolio",
+        "href": "https://www.mypalette.xyz/signup"
+      },
+      "secondary_cta": {
+        "label": "Join the PPN Discord",
+        "href": "https://discord.gg/pixel-palette-nation"
+      }
+    }
+  },
+  "highlights": [
+    "Curated artists like Nuria List from open calls to global exhibitions, including the Balkans showcase in Albania.",
+    "Helped community member Frisky Foxtrot secure paid marketing design work through PPN introductions.",
+    "Co-produces ETHPhoenix and AI Film 3 showcases with Shelton Beascochea, PJ Way, and the Stand With Crypto network.",
+    "Runs exhibitions across Colorado and Arizona, expanding to new markets with each festival season.",
+    "Operates MyPalette to unite traditional and digital art worlds with gallery partnerships and real prizes."
+  ],
+  "quotes": [
+    {
+      "speaker": "Justin",
+      "text": "We started out of the boom of AI in 2021—when generative lowered the barrier, we knew artists needed a home."
+    },
+    {
+      "speaker": "Justin",
+      "text": "Every piece of media you see—phones, movies, TV—has a digital artist behind it. Mixed media is the future."
+    },
+    {
+      "speaker": "Justin",
+      "text": "Social audio and online networks made all of this possible—we wouldn’t be curating Arizona or Albania without them."
+    },
+    {
+      "speaker": "Justin",
+      "text": "We’re building a platform that provides sustainable opportunities for artists to get recognized all around the world."
+    },
+    {
+      "speaker": "Justin",
+      "text": "Make sure you join our Discord—there’s always something fun and valuable happening for creatives."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2021",
+      "event": "Founded Pixel Palette Nation during the generative AI surge to unify independent digital artists."
+    },
+    {
+      "year": "2022",
+      "event": "Expanded curation from online Spaces to physical showcases across Colorado."
+    },
+    {
+      "year": "2023",
+      "event": "Launched MyPalette platform and hosted the Balkans mixed-media exhibition in Albania."
+    },
+    {
+      "year": "2024",
+      "event": "Co-produced Ethereum Phoenix & AI Film 3 showcases in Arizona with Stand With Crypto partners."
+    },
+    {
+      "year": "2025+",
+      "event": "Scaling gallery partnerships, brand commissions, and cross-country exhibitions for 55,000+ community members."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Stand With Crypto & BitAngels",
+      "relation": "Event collaborators",
+      "highlight": "Provide stages like Ethereum Phoenix to elevate PPN artists."
+    },
+    {
+      "name": "AI Film 3 / I Film 3",
+      "relation": "Creative partners",
+      "highlight": "Co-create immersive film and art showcases with PPN curators."
+    },
+    {
+      "name": "Global Galleries & Collectors",
+      "relation": "Exhibition allies",
+      "highlight": "Host MyPalette-curated artists in shows from Arizona to the Balkans."
+    }
+  ],
+  "contact": {
+    "press": "press@pixelpalettenation.com",
+    "partnerships": "partners@pixelpalettenation.com",
+    "artists": "artists@pixelpalettenation.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/pixel-palette-nation",
+      "x": "https://x.com/PixelPalettePPN"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Ethereum Phoenix Artist Showcase",
+      "url": "assets/ppn-events/IMG_9394.JPG",
+      "thumbnail": "assets/ppn-events/IMG_9394-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "MyPalette Platform Walkthrough",
+      "url": "assets/ppn-events/IMG_9274.jpg",
+      "thumbnail": "assets/ppn-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "PPN Community Meetup",
+      "url": "assets/ppn-events/IMG_9335.JPG",
+      "thumbnail": "assets/ppn-events/IMG_9335-thumb.JPG"
+    },
+    {
+      "type": "video",
+      "title": "MyPalette Artist Success Stories",
+      "url": "https://videos.example.com/mypalette-success.mp4",
+      "thumbnail": "assets/ppn-events/mypalette-success-thumb.jpg"
+    }
+  ]
+}
+

@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Richard | Chief of Staff, Lunar Digital Assets & BitAngels Host",
+    "description": "Discover Richard’s work powering BitAngels, the premier investor network connecting blockchain founders, investors, and partners worldwide.",
+    "keywords": [
+      "Richard",
+      "BitAngels",
+      "Lunar Digital Assets",
+      "blockchain investing",
+      "founder network",
+      "Web3 pitch events"
+    ]
+  },
+  "hero": {
+    "name": "Richard",
+    "title": "Chief of Staff, Lunar Digital Assets & Global Host, BitAngels",
+    "tagline": "Curating missionary founders and global investors to accelerate blockchain adoption.",
+    "primary_cta": {
+      "label": "Join BitAngels",
+      "href": "https://www.bitangels.network/join"
+    },
+    "secondary_cta": {
+      "label": "Pitch Your Startup",
+      "href": "https://www.bitangels.network/pitch"
+    },
+    "media": {
+      "portrait": "assets/richard-bitangels-portrait.jpg",
+      "background": "assets/bitangels-stage.jpg"
+    }
+  },
+  "about": {
+    "summary": "Richard bridges Lunar Digital Assets’ venture studio excellence with BitAngels’ global investor community, spotlighting founders who build for impact.",
+    "origin_story": {
+      "headline": "From venture studio to global stage.",
+      "copy": "At Lunar Digital Assets, Richard helped incubate unicorns like Polygon, QuickSwap, Persistence, and Comdex—experience he now channels into curating standout Web3 founders."
+    },
+    "inflection_point": {
+      "headline": "Hosting the premier blockchain investor network.",
+      "copy": "Coordinating BitAngels events worldwide, Richard elevated pitch competitions focused on political, legal, and regulatory discipline over hype."
+    },
+    "expertise": [
+      "Venture studio operations",
+      "Global event production",
+      "Investor relations",
+      "Regulatory-conscious founder support"
+    ]
+  },
+  "mission": {
+    "headline": "Accelerate blockchain adoption through disciplined founders and aligned capital.",
+    "pillars": [
+      {
+        "title": "Missionary Founders",
+        "description": "Champion teams who embody their product, execute relentlessly, and build for impact—not just exits."
+      },
+      {
+        "title": "Global Connectivity",
+        "description": "Link investors, entrepreneurs, and partners across key cities and online channels for continuous collaboration."
+      },
+      {
+        "title": "Regulatory Readiness",
+        "description": "Prioritize startups that understand the political, legal, and compliance fulcrum where Web3 ventures live or die."
+      }
+    ]
+  },
+  "project": {
+    "name": "BitAngels",
+    "problem": "Web3 founders struggle to access experienced investors and structured feedback outside hype-driven events.",
+    "solution": "BitAngels convenes disciplined investors, missionary founders, and service partners through curated pitch events, global meetups, and a collaborative membership platform.",
+    "value_proposition": [
+      "Connect with blockchain veterans who have supported unicorn-scale ventures.",
+      "Gain insider access to vetted deal flow across global chapters and virtual events.",
+      "Collaborate with a community focused on compliance, security, and long-term impact."
+    ],
+    "experience": {
+      "headline": "BitAngels: the world’s premier investor network for the blockchain industry.",
+      "copy": [
+        "Pitch alongside entrepreneurs, investors, partners, and enthusiasts across flagship events and weekly BitAngels X Spaces.",
+        "Explore the BitAngels network via city chapters, exclusive membership communications, and the Tokenize Global partnership.",
+        "Founders, investors, and service providers share insights, opportunities, and deal flow from different markets to accelerate adoption."
+      ]
+    },
+    "features": [
+      "Monthly pitch events in key cities worldwide",
+      "Virtual programming including BitAngels X Space and Tokenize! Conference",
+      "Global membership platform with curated deal flow updates",
+      "Partnership ecosystem across blockchain media and venture networks"
+    ],
+    "traction": {
+      "global_network": "Chapters spanning the United States, Korea, Singapore, London, France, Argentina, and more under active discussion.",
+      "historic_leadership": "Founded by Michael Terpin and David Johnston in 2013—the first and longest-running angel network for digital currency startups."
+    },
+    "call_to_action": {
+      "headline": "Ready to plug into the BitAngels ecosystem?",
+      "primary_cta": {
+        "label": "Explore Events",
+        "href": "https://www.bitangels.network/calendar"
+      },
+      "secondary_cta": {
+        "label": "Become a Member",
+        "href": "https://www.bitangels.network/join"
+      }
+    }
+  },
+  "highlights": [
+    "Richard coordinates BitAngels’ global event footprint, from Phoenix pitch competitions to international chapters.",
+    "Guides founders with a focus on regulatory clarity, security infrastructure, and mission-driven execution.",
+    "Supports Lunar Digital Assets’ portfolio, including LitVM, Matterfly, American Fortress, and emerging bets.",
+    "Maintains relationships with blockchain pioneers like Michael Terpin and David Chaum to keep the network on the bleeding edge."
+  ],
+  "quotes": [
+    {
+      "speaker": "Richard",
+      "text": "We’re always out on the look for various projects that are great to invest in and to work with as well."
+    },
+    {
+      "speaker": "Richard",
+      "text": "We’re the very first angel network and pitch competition that has ever been created for Web3 specifically."
+    },
+    {
+      "speaker": "Richard",
+      "text": "Not only are we the longest running, but we also have the godfather involved."
+    },
+    {
+      "speaker": "Richard",
+      "text": "You see a founder who embodies his product... there’s a difference between a missionary and a mercenary."
+    },
+    {
+      "speaker": "Richard",
+      "text": "Money is just a byproduct of you building something that’s going to be impactful."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2013",
+      "event": "BitAngels founded by Michael Terpin and David Johnston as the first digital currency angel network."
+    },
+    {
+      "year": "Venture Studio Milestones",
+      "event": "Lunar Digital Assets incubates Polygon, QuickSwap, Persistence, Comdex, and additional unicorn-scale projects."
+    },
+    {
+      "year": "Global Expansion",
+      "event": "BitAngels establishes chapters across North America, Europe, and Asia with events in cities like Phoenix, Singapore, London, and Buenos Aires."
+    },
+    {
+      "year": "Security & Compliance Focus",
+      "event": "Launches initiatives around quantum-resistant wallets, security infrastructure plays, and regulatory-informed programming."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Michael Terpin",
+      "relation": "Founder of BitAngels and mentor within the network.",
+      "highlight": "Coined the godfather of crypto by CNBC; leads Transform Ventures."
+    },
+    {
+      "name": "David Chaum",
+      "relation": "Cryptography pioneer and BitAngels collaborator.",
+      "highlight": "Demonstrated quantum-resistant Bitcoin wallets within the network."
+    }
+  ],
+  "contact": {
+    "press": "press@bitangels.network",
+    "partnerships": "partners@bitangels.network",
+    "investors": "investors@bitangels.network",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/bitangels",
+      "x": "https://x.com/bitangels"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "BitAngels Phoenix Pitch Floor",
+      "url": "assets/bitangels-events/WhatsApp-Image-2024-08-04-at-09.03.16.jpeg",
+      "thumbnail": "assets/bitangels-events/WhatsApp-Image-2024-08-04-at-09.03.16-thumb.jpeg"
+    },
+    {
+      "type": "image",
+      "title": "Tokenize! Conference Partnership",
+      "url": "assets/bitangels-events/20250227_164410.jpg",
+      "thumbnail": "assets/bitangels-events/20250227_164410-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Global Investor Meetup",
+      "url": "assets/bitangels-events/20250227_104332.jpg",
+      "thumbnail": "assets/bitangels-events/20250227_104332-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "BitAngels Networking",
+      "url": "assets/bitangels-events/20250227_150249.jpg",
+      "thumbnail": "assets/bitangels-events/20250227_150249-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Community Spotlight",
+      "url": "assets/bitangels-events/WhatsApp-Image-2024-10-31-at-21.26.20.jpeg",
+      "thumbnail": "assets/bitangels-events/WhatsApp-Image-2024-10-31-at-21.26.20-thumb.jpeg"
+    },
+    {
+      "type": "video",
+      "title": "BitAngels Pitch Highlights",
+      "url": "https://www.youtube.com/playlist?list=bitangels",
+      "thumbnail": "assets/bitangels-events/highlights-thumb.jpg"
+    }
+  ]
+}
+

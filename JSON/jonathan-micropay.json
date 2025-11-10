@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "Jonathon Chambless | CEO, MicroPay Technologies",
+    "description": "Meet Jonathon Chambless, the compliance-first builder aligning corporate treasury, payroll, and tokenized assets across global jurisdictions.",
+    "keywords": [
+      "Jonathon Chambless",
+      "MicroPay Technologies",
+      "compliance-first crypto",
+      "corporate digital asset treasury",
+      "Accumulate Foundation",
+      "Circle developer",
+      "global payroll"
+    ]
+  },
+  "hero": {
+    "name": "Jonathon Chambless",
+    "title": "Founder & CEO, MicroPay Technologies | Governance Appointee, Accumulate Foundation",
+    "tagline": "Translating crypto into GAAP so Fortune 2000 CFOs can finally say yes.",
+    "primary_cta": {
+      "label": "Explore MicroPay Treasury",
+      "href": "https://www.micropaytechnologies.com"
+    },
+    "secondary_cta": {
+      "label": "Book a Compliance Workshop",
+      "href": "mailto:jonathon@micropaytechnologies.com"
+    },
+    "media": {
+      "portrait": "assets/micropay-jonathon-portrait.jpg",
+      "background": "assets/micropay-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Jonathon Chambless is a Circle developer, Accumulate governance leader, and compliance architect helping enterprises adopt digital assets without adding risk.",
+    "origin_story": {
+      "headline": "From property management to protocol governance.",
+      "copy": "Jonathon managed multi-family portfolios across Arizona before founding LV8RLABS and Mythic Contracting. Today he merges built-environment experience with tokenization and enterprise crypto compliance."
+    },
+    "inflection_point": {
+      "headline": "Standing with crypto—under US GAAP.",
+      "copy": "Working with Circle and Amazon on the ARC protocol, Jonathon realized that Fortune 2000 adoption hinges on translating crypto into payroll, FX, and regulatory language CFOs actually trust."
+    },
+    "expertise": [
+      "Cross-jurisdictional compliance (GAAP, GDPR, MiCA, MAS)",
+      "Corporate digital asset treasury",
+      "Stablecoin infrastructure",
+      "Tokenized assets & RWAs",
+      "Global payroll automation"
+    ]
+  },
+  "mission": {
+    "headline": "Build the corporate digital asset treasury stack that satisfies regulators, auditors, and boardrooms.",
+    "pillars": [
+      {
+        "title": "Compliance First",
+        "description": "Align every product decision with GAAP, regulatory clarity (Genius & Stable Acts), and cross-border data retention."
+      },
+      {
+        "title": "Stable Adoption",
+        "description": "Use stablecoin infrastructure, not volatility, to reduce FX risk and streamline payroll across jurisdictions."
+      },
+      {
+        "title": "Network-State Focus",
+        "description": "Champion freedom-tech ecosystems in Arizona and beyond through Stand With Crypto, Silicon Oasis, and Accumulate."
+      }
+    ]
+  },
+  "project": {
+    "name": "MicroPay Technologies",
+    "problem": "Global enterprises fear the compliance risk of integrating crypto into payroll, treasury, and cross-border settlements.",
+    "solution": "MicroPay provides a compliance-first treasury platform that leverages Circle’s infrastructure, Accumulate’s omni-chain governance, and tokenized assets to cut FX exposure, automate payouts, and satisfy regulatory audits.",
+    "value_proposition": [
+      "Streamline multinational payroll with stablecoins while maintaining GAAP-compliant reporting.",
+      "Reduce FX risk and settlement costs by using on-chain flows that pass political, legal, and regulatory scrutiny.",
+      "Implement a corporate digital asset treasury without introducing volatility or reputational risk."
+    ],
+    "experience": {
+      "headline": "How MicroPay engages the enterprise.",
+      "copy": [
+        "Assess current payroll and treasury workflows across subsidiaries and jurisdictions.",
+        "Design a compliance-first architecture integrating Circle, Accumulate, and on-chain reporting.",
+        "Train CFOs, CTOs, and auditors on data retention, GAAP treatment, and reporting obligations."
+      ]
+    },
+    "features": [
+      "Circle ARC integration with USDC gas fees",
+      "Accumulate compliance L1 for tokenized securities",
+      "Automated GAAP reporting and ledger hooks",
+      "Cross-border payroll modules with GDPR/MiCA compliance",
+      "Executive dashboards tracking FX savings and network-state KPIs"
+    ],
+    "traction": {
+      "enterprise_interest": "Engaged Fortune 2000 executives in deploying stablecoin-based payroll pilots after ETHGlobal Singapore Circle dev showcase.",
+      "ecosystem_roles": "Governance committee at Accumulate, community ambassador for Centrifuge and Silicon Oasis, advisor to Arizona built-environment ventures."
+    },
+    "call_to_action": {
+      "headline": "Ready to bring crypto into the boardroom—with GAAP evidence?",
+      "primary_cta": {
+        "label": "Request a Treasury Assessment",
+        "href": "https://www.micropaytechnologies.com/treasury-assessment"
+      },
+      "secondary_cta": {
+        "label": "Join the Compliance Community",
+        "href": "https://discord.gg/micropay"
+      }
+    }
+  },
+  "highlights": [
+    "Circle developer representing ARC protocol at ETHGlobal Singapore marketing showcase.",
+    "Governance committee appointee for Accumulate, the compliance-first omni-chain network (formerly Factom).",
+    "Centrifuge and Silicon Oasis ambassador connecting DeFi RWAs with Arizona’s manufacturing and startup ecosystem.",
+    "Former CEO of Phoenix Property & Community Services; brings decade of built-environment operations to tokenization.",
+    "Leads MicroPay Technologies to align corporate digital asset treasury with US GAAP, Genius, and Stable legislation."
+  ],
+  "quotes": [
+    {
+      "speaker": "Jonathon Chambless",
+      "text": "Most CTOs and CFOs don’t care about crypto—they care about payroll and processing costs. Bring them a stable approach and they finally listen."
+    },
+    {
+      "speaker": "Jonathon Chambless",
+      "text": "You can’t add risk to their portfolio. Translate crypto into GAAP and cross-jurisdictional compliance or they’ll turn you away."
+    },
+    {
+      "speaker": "Jonathon Chambless",
+      "text": "If we can put municipal bonds and climate debt on-chain with proper governance, speculation funds the infrastructure everyone needs."
+    },
+    {
+      "speaker": "Jonathon Chambless",
+      "text": "Stable and Genius recognition flowing into GAAP reporting is the watershed moment—now we can speak the CFO’s language."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2010-2020",
+      "event": "Managed property portfolios, founded Mythic Contracting, and led Phoenix Property & Community Services."
+    },
+    {
+      "year": "2021",
+      "event": "Launched LV8RLABS to merge BIM, tokenization, and securitization for real estate."
+    },
+    {
+      "year": "2023",
+      "event": "Joined Centrifuge as a community ambassador; collaborated with Circle and Amazon on ARC protocol design."
+    },
+    {
+      "year": "2024",
+      "event": "Appointed to Accumulate Foundation governance committee; became Silicon Oasis ambassador for Arizona’s tech scene."
+    },
+    {
+      "year": "2025",
+      "event": "Founded MicroPay Technologies to deliver compliance-first corporate digital asset treasury solutions."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Accumulate Foundation",
+      "relation": "Governance partner",
+      "highlight": "Provides the compliance-first omni-chain network for tokenized asset issuance and reporting."
+    },
+    {
+      "name": "Circle",
+      "relation": "Infrastructure ally",
+      "highlight": "ARCL1 integration enables GAAP-compliant stablecoin operations with USDC gas fees."
+    },
+    {
+      "name": "Stand With Crypto & Silicon Oasis",
+      "relation": "Advocacy network",
+      "highlight": "Support Jonathon’s efforts to align Arizona’s policy, manufacturing, and tech builders."
+    }
+  ],
+  "contact": {
+    "press": "press@micropaytechnologies.com",
+    "partnerships": "partners@micropaytechnologies.com",
+    "investors": "investors@micropaytechnologies.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jonathonchambless",
+      "x": "https://x.com/tradesman_base"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "MicroPay Compliance Workshop",
+      "url": "assets/micropay-events/IMG_9274.jpg",
+      "thumbnail": "assets/micropay-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Circle ARC Integration Demo",
+      "url": "assets/micropay-events/IMG_9395.JPG",
+      "thumbnail": "assets/micropay-events/IMG_9395-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Silicon Oasis Community Meetup",
+      "url": "assets/micropay-events/IMG_9438.jpg",
+      "thumbnail": "assets/micropay-events/IMG_9438-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Corporate Digital Asset Treasury Overview",
+      "url": "https://videos.example.com/micropay-treasury-overview.mp4",
+      "thumbnail": "assets/micropay-events/micropay-overview-thumb.jpg"
+    }
+  ]
+}
+

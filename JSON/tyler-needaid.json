@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "title": "Tyler Gentry | Founder & CEO, NEED-AID",
+    "description": "Discover how Tyler Gentry is modernizing humanitarian aid with blockchain-backed transparency, Wyoming DUNA governance, and inclusive digital payouts.",
+    "keywords": [
+      "Tyler Gentry",
+      "NEED-AID",
+      "DUNA",
+      "aid disbursement",
+      "stablecoins",
+      "Wyoming blockchain",
+      "financial inclusion",
+      "humanitarian fintech"
+    ]
+  },
+  "hero": {
+    "name": "Tyler Gentry",
+    "title": "Founder & CEO, NEED-AID | Consortium Architect, Wyoming DUNA",
+    "tagline": "Delivering donor dollars straight to people in need—with on-chain accountability and human dignity.",
+    "primary_cta": {
+      "label": "Partner with NEED-AID",
+      "href": "mailto:tyler@need-aid.com"
+    },
+    "secondary_cta": {
+      "label": "Join the Wyoming DUNA Pilot",
+      "href": "https://www.need-aid.com/duna"
+    },
+    "media": {
+      "portrait": "assets/need-aid-tyler-portrait.jpg",
+      "background": "assets/need-aid-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Raised in rural Wyoming, Tyler Gentry blends payments innovation with servant leadership—distributing over $3B in relief before founding NEED-AID to bring trust back to giving.",
+    "origin_story": {
+      "headline": "From prepaid cards to blockchain rails.",
+      "copy": "As Director of Government & Nonprofit Services at Blackhawk Network, Tyler stood up emergency programs that delivered billions in aid via prepaid cards. Fraud, breakage, and opaque reporting sparked his mission to build something better."
+    },
+    "inflection_point": {
+      "headline": "Creating the Wyoming DUNA.",
+      "copy": "Partnering with the University of Wyoming’s Center for Blockchain & Digital Innovation, Tyler is launching a decentralized unincorporated nonprofit association (DUNA) that lets donors trace every stablecoin to its recipient."
+    },
+    "expertise": [
+      "Aid disbursement operations",
+      "Stablecoin & wallet integrations",
+      "Government & NGO partnerships",
+      "Servant leadership and consortium design",
+      "Compliance-first fundraising"
+    ]
+  },
+  "mission": {
+    "headline": "Democratize giving with transparent, inclusive, real-time aid delivery.",
+    "pillars": [
+      {
+        "title": "Financial Inclusion",
+        "description": "Onboard unbanked and underbanked families with simple digital wallets, off-ramps like MoneyGram, and multilingual support."
+      },
+      {
+        "title": "Transparent Impact",
+        "description": "Leverage stablecoins and blockchain metadata so every donor can audit where funds go—no more black-box reporting."
+      },
+      {
+        "title": "Community Governance",
+        "description": "Empower nonprofits to become voting members who direct aid to the most urgent needs in real time."
+      }
+    ]
+  },
+  "project": {
+    "name": "NEED-AID & Wyoming DUNA",
+    "problem": "Government checks, prepaid cards, and legacy wires are slow, expensive, opaque, and prone to fraud—leaving vulnerable families behind.",
+    "solution": "NEED-AID’s consortium uses stablecoins, Stellar’s mass disbursement rails, and compliant digital wallets to move funds instantly from donors to recipients while capturing transparent impact data.",
+    "value_proposition": [
+      "Deliver funds in minutes instead of weeks, even across borders, with stablecoin mass disbursements.",
+      "Provide donors, auditors, and regulators with real-time visibility into every transaction.",
+      "Reduce fraud and unused balances by replacing prepaid breakage with wallet-based KYC and cash-out options."
+    ],
+    "experience": {
+      "headline": "How the Wyoming DUNA works.",
+      "copy": [
+        "Donors contribute via fiat or digital assets; funds convert to compliant stablecoins.",
+        "Participating nonprofits vote to allocate aid based on live, community-sourced priorities.",
+        "Recipients receive an SMS/email to claim aid, onboard into a digital wallet, and spend or cash out locally."
+      ]
+    },
+    "features": [
+      "Stellar Development Foundation mass disbursement toolkit",
+      "Wallet partnerships (e.g., Decaf) with MoneyGram off-ramps",
+      "Consent-driven data collection for compliance and storytelling",
+      "Multilingual onboarding, training, and support for vulnerable populations",
+      "Consortium governance across nonprofits, universities, and donors"
+    ],
+    "traction": {
+      "relief_legacy": "Distributed $3B+ in aid across California, Washington, New York, and beyond through legacy payment networks.",
+      "wyoming_pilot": "Launching December food-security pilot with University of Wyoming; statewide DUNA proof-of-concept slated for mid-2026."
+    },
+    "call_to_action": {
+      "headline": "Ready to fund transparently and inclusively?",
+      "primary_cta": {
+        "label": "Sponsor the DUNA Pilot",
+        "href": "https://www.need-aid.com/pilot"
+      },
+      "secondary_cta": {
+        "label": "Get the Donor Impact Brief",
+        "href": "mailto:impact@need-aid.com"
+      }
+    }
+  },
+  "highlights": [
+    "Oversaw equitable distribution of $3B+ in public-sector aid during COVID across multiple states.",
+    "Architecting a stablecoin-powered nonprofit consortium that returns crypto to its original financial inclusion promise.",
+    "Bridging Wyoming’s digital asset laws with Arizona’s freedom-tech ecosystem to modernize social safety nets.",
+    "Collaborates with Stellar, Decaf Wallet, and MoneyGram for global-ready disbursement technology.",
+    "Ally to NGOs, food banks, and donors seeking real-time accountability with lower operating overhead."
+  ],
+  "quotes": [
+    {
+      "speaker": "Tyler Gentry",
+      "text": "We called it NEED-AID because millions qualify for assistance—but legacy rails leave them behind."
+    },
+    {
+      "speaker": "Tyler Gentry",
+      "text": "Blockchain gives donors and recipients transparency we’ve never had—every dollar can be traced from giver to person in need."
+    },
+    {
+      "speaker": "Tyler Gentry",
+      "text": "Stablecoins fulfill crypto’s original promise: bank the unbanked, deliver dignity, and restore trust in aid."
+    },
+    {
+      "speaker": "Tyler Gentry",
+      "text": "Wyoming’s DUNA lets nonprofits co-govern where funds go—democratizing giving in real time."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2016-2018",
+      "event": "Served as VP of Business Attraction at Arizona Commerce Authority, recruiting companies to the state and honing public-sector partnerships."
+    },
+    {
+      "year": "2019-2024",
+      "event": "Directed government & nonprofit services at Blackhawk Network, distributing billions in emergency aid via prepaid programs."
+    },
+    {
+      "year": "2024",
+      "event": "Launched NEED-AID consultancy to modernize aid flows and started forming the Wyoming DUNA."
+    },
+    {
+      "year": "2025",
+      "event": "Partnered with University of Wyoming’s Center for Blockchain & Digital Innovation to co-develop DUNA governance."
+    },
+    {
+      "year": "2026",
+      "event": "Planning statewide DUNA proof-of-concept with hundreds of nonprofits directing real-time aid allocations."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "University of Wyoming Center for Blockchain & Digital Innovation",
+      "relation": "Academic partner",
+      "highlight": "Co-developing governance, policy alignment, and research for the Wyoming DUNA."
+    },
+    {
+      "name": "Stellar Development Foundation",
+      "relation": "Technology ally",
+      "highlight": "Provides Mass Disbursement Platform and global wallet integrations for instant payouts."
+    },
+    {
+      "name": "Decaf Wallet & MoneyGram",
+      "relation": "Access partners",
+      "highlight": "Enable recipients to receive stablecoins and cash out at local retail locations."
+    }
+  ],
+  "contact": {
+    "press": "press@need-aid.com",
+    "partnerships": "partners@need-aid.com",
+    "donors": "donors@need-aid.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tylergentrywy",
+      "x": "https://x.com/need_aid"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Food Security Pilot Planning Session",
+      "url": "assets/need-aid-events/IMG_9335.JPG",
+      "thumbnail": "assets/need-aid-events/IMG_9335-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Wyoming DUNA Consortium Kickoff",
+      "url": "assets/need-aid-events/IMG_9274.jpg",
+      "thumbnail": "assets/need-aid-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Stablecoin Wallet Training",
+      "url": "assets/need-aid-events/IMG_9394.JPG",
+      "thumbnail": "assets/need-aid-events/IMG_9394-thumb.JPG"
+    },
+    {
+      "type": "video",
+      "title": "NEED-AID Mission Overview",
+      "url": "https://videos.example.com/need-aid-overview.mp4",
+      "thumbnail": "assets/need-aid-events/need-aid-overview-thumb.jpg"
+    }
+  ]
+}
+

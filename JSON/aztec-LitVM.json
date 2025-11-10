@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Aztec | Co-Founder, LitVM (Litecoin Layer 2)",
+    "description": "Explore how Aztec and LitVM bring Litecoin trustlessly into Web3 with a hybrid Layer 2 that unites Bitcoin, Ethereum, and ZK innovation.",
+    "keywords": [
+      "Aztec",
+      "LitVM",
+      "Litecoin Layer 2",
+      "ZK rollups",
+      "interoperability",
+      "freedom technologies"
+    ]
+  },
+  "hero": {
+    "name": "Aztec",
+    "title": "Co-Founder, LitVM | Litecoin Layer 2",
+    "tagline": "Assembling the blockchain Avengers to make trustless Litecoin interoperability a reality.",
+    "primary_cta": {
+      "label": "Read the LitVM Research Paper",
+      "href": "https://litvvm.com/silver-standard"
+    },
+    "secondary_cta": {
+      "label": "Join the LitVM Community",
+      "href": "https://discord.gg/litvm"
+    },
+    "media": {
+      "portrait": "assets/litvm-aztec-portrait.jpg",
+      "background": "assets/litvm-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Aztec unites cypherpunks, regulators, and investors to deliver LitVM—the first Litecoin Layer 2 endorsed by the Litecoin Foundation and Charlie Lee.",
+    "origin_story": {
+      "headline": "From incubation to innovation.",
+      "copy": "After launching and incubating projects like Polygon and QuickSwap with Lunar Digital Assets, Aztec turned to Litecoin’s untapped potential."
+    },
+    "inflection_point": {
+      "headline": "Thrown into the BitAngels ecosystem.",
+      "copy": "Supporting Eric and Richard at BitAngels, Aztec saw Arizona’s hunger for freedom technologies and rallied builders to form a super team."
+    },
+    "expertise": [
+      "Layer 2 architecture",
+      "Cross-chain interoperability",
+      "Web3 ecosystem development",
+      "Community evangelism"
+    ]
+  },
+  "mission": {
+    "headline": "Deliver freedom technologies that protect rights while unlocking interoperability across blockchain camps.",
+    "pillars": [
+      {
+        "title": "Trustless Interop",
+        "description": "Bridge Litecoin into Web3 without centralized intermediaries using ZK proofs."
+      },
+      {
+        "title": "Collaborative Builders",
+        "description": "Rally Bitcoin pioneers, Ethereum innovators, and Zcash technologists to work as one."
+      },
+      {
+        "title": "Freedom First",
+        "description": "Empower communities to defend privacy and decentralization against technocratic control."
+      }
+    ]
+  },
+  "project": {
+    "name": "LitVM (Litecoin Layer 2)",
+    "problem": "Litecoin lacked a fully trustless, decentralized bridge into Web3, limiting institutions and developers seeking interoperable strategies.",
+    "solution": "LitVM delivers a hybrid Layer 2 leveraging BitcoinOS, Ethereum, and Zcash expertise to roll up to both Ethereum and Litecoin, enabling trustless interoperability with ZK proofs.",
+    "value_proposition": [
+      "Bring Litecoin into Web3 with trustless, decentralized infrastructure.",
+      "Unlock strategies for institutions, digital asset treasuries, and funds.",
+      "Catalyze cross-chain collaboration between sound money advocates and Web3 builders."
+    ],
+    "experience": {
+      "headline": "Welcome to LitVM, the silver standard for Litecoin interoperability.",
+      "copy": [
+        "Dive into the 18-page Silver Standard research paper outlining the opportunity for Litecoin Layer 2.",
+        "See how AI-augmented teams, infrastructure sandboxes, and regulatory alignment create fertile ground in Arizona.",
+        "Join pioneers rallying misfits, regulators, and technologists to build freedom technologies together."
+      ]
+    },
+    "features": [
+      "Hybrid rollup touching Ethereum and Litecoin",
+      "Zero-knowledge proof security",
+      "Partnership with BitcoinOS and cross-chain core teams",
+      "Institution-ready infrastructure for treasuries and funds"
+    ],
+    "traction": {
+      "endorsements": "Fully endorsed by the Litecoin Foundation and Charlie Lee.",
+      "ecosystem_momentum": "Guided by Lunar Digital Assets with experience launching Polygon, QuickSwap, and other flagship protocols."
+    },
+    "call_to_action": {
+      "headline": "Ready to build on the Litecoin Layer 2 frontier?",
+      "primary_cta": {
+        "label": "Download the Silver Standard Paper",
+        "href": "https://litvvm.com/silver-standard"
+      },
+      "secondary_cta": {
+        "label": "Schedule a Strategy Session",
+        "href": "mailto:hello@litvvm.com"
+      }
+    }
+  },
+  "highlights": [
+    "Arizona is attracting chips, regulators, and cypherpunk misfits eager to build freedom technologies.",
+    "LitVM aims to unite Bitcoin, Ethereum, Zcash, and Litecoin communities through ZK-based interoperability.",
+    "Aztec envisions AI-enhanced teams coordinating design, development, and distribution with regulatory maturity.",
+    "Believes the future hinges on defending privacy and decentralization against technocratic control."
+  ],
+  "quotes": [
+    {
+      "speaker": "Aztec",
+      "text": "There’s a lot of money moving into Arizona—we have the chips coming in, great regulators, and a lot more blockchain cypherpunks."
+    },
+    {
+      "speaker": "Aztec",
+      "text": "I was instrumental in launching and incubating projects like Polygon and QuickSwap; now I’m focused on LitVM, the first Litecoin layer two."
+    },
+    {
+      "speaker": "Aztec",
+      "text": "We’re bringing Litecoin trustless into Web3 because there aren’t any fully trustless decentralized options today."
+    },
+    {
+      "speaker": "Aztec",
+      "text": "Interoperability by way of ZK technology is going to bring everyone together."
+    },
+    {
+      "speaker": "Aztec",
+      "text": "We can come together, build decentralized communities, protect privacy, and build freedom technologies."
+    },
+    {
+      "speaker": "Aztec",
+      "text": "Start with our 18-page research paper—the Silver Standard—and see the opportunity Litecoin has."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Lunar Digital Assets Era",
+      "event": "Helped incubate Polygon, QuickSwap, Persistence, and other flagship protocols."
+    },
+    {
+      "year": "BitAngels Engagement",
+      "event": "Joined Eric and Richard to support BitAngels’ expansion in Arizona."
+    },
+    {
+      "year": "LitVM Formation",
+      "event": "Co-founded LitVM, endorsed by the Litecoin Foundation and Charlie Lee."
+    },
+    {
+      "year": "Arizona Freedom Tech Movement",
+      "event": "Mobilizes designers, developers, and distributors to build interoperable freedom technologies."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Litecoin Foundation",
+      "relation": "Strategic endorser",
+      "highlight": "Endorses LitVM as the first official Litecoin Layer 2."
+    },
+    {
+      "name": "Lunar Digital Assets",
+      "relation": "Venture studio partner",
+      "highlight": "Provides incubation expertise and network connections from prior unicorns."
+    }
+  ],
+  "contact": {
+    "press": "press@litvvm.com",
+    "partnerships": "partners@litvvm.com",
+    "investors": "investors@litvvm.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/litvvm",
+      "x": "https://x.com/litvvm"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "LitVM Team at BitAngels",
+      "url": "assets/litvm-events/20250227_164410.jpg",
+      "thumbnail": "assets/litvm-events/20250227_164410-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Arizona Freedom Technologies Gathering",
+      "url": "assets/litvm-events/20250227_104332.jpg",
+      "thumbnail": "assets/litvm-events/20250227_104332-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Interoperability Workshop",
+      "url": "assets/litvm-events/WhatsApp-Image-2024-10-31-at-21.26.31.jpeg",
+      "thumbnail": "assets/litvm-events/WhatsApp-Image-2024-10-31-at-21.26.31-thumb.jpeg"
+    },
+    {
+      "type": "video",
+      "title": "Litecoin Layer 2 Deep Dive",
+      "url": "https://www.youtube.com/playlist?list=litvm",
+      "thumbnail": "assets/litvm-events/litvm-highlights-thumb.jpg"
+    }
+  ]
+}
+

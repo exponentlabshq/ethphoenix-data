@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "title": "Shelton Beascochea | Arizona President, Stand With Crypto",
+    "description": "Meet Shelton Beascochea, the grassroots organizer mobilizing 55,000+ advocates and turning Arizona into the Silicon Desert for crypto innovation.",
+    "keywords": [
+      "Shelton Beascochea",
+      "Stand With Crypto Arizona",
+      "Ethereum Phoenix",
+      "Devils DAO",
+      "Crowd Ctrl",
+      "AI Film 3",
+      "crypto advocacy"
+    ]
+  },
+  "hero": {
+    "name": "Shelton Beascochea",
+    "title": "Arizona President, Stand With Crypto | Founder, Devils DAO & Crowd Ctrl",
+    "tagline": "Activating Arizona’s 55,000 crypto advocates to build the next Silicon Desert.",
+    "primary_cta": {
+      "label": "Join Stand With Crypto AZ",
+      "href": "https://www.standwithcrypto.org/states/arizona"
+    },
+    "secondary_cta": {
+      "label": "Partner on Arizona Initiatives",
+      "href": "mailto:shelton@standwithcrypto.org"
+    },
+    "media": {
+      "portrait": "assets/shelton-portrait.jpg",
+      "background": "assets/eth-phoenix-stage.jpg"
+    }
+  },
+  "about": {
+    "summary": "Shelton Beascochea is a Phoenix-based organizer bridging policy, capital, and culture to catalyze Arizona’s crypto renaissance.",
+    "origin_story": {
+      "headline": "From venture operations to grassroots leadership.",
+      "copy": "After steering $30M AUM at Verdure Capital and advising fintech ventures, Shelton turned to community building—assembling Devils DAO, co-founding Crowd Ctrl, and mobilizing Stand With Crypto."
+    },
+    "inflection_point": {
+      "headline": "Ethereum Phoenix: proof of concept.",
+      "copy": "As co-host of the inaugural Ethereum Phoenix, Shelton united founders, regulators, and creatives—showing how civic maturity and culture can move capital to Arizona."
+    },
+    "expertise": [
+      "Grassroots mobilization",
+      "Crypto policy advocacy",
+      "Venture operations",
+      "Community-driven event production"
+    ]
+  },
+  "mission": {
+    "headline": "Activate Arizona as the nation’s most compliant, collaborative crypto hub.",
+    "pillars": [
+      {
+        "title": "Grassroots Power",
+        "description": "Mobilize 55,000+ Stand With Crypto advocates to influence policy and unlock opportunity."
+      },
+      {
+        "title": "Silicon Desert Vision",
+        "description": "Leverage billions in chip manufacturing, wealth migration, and creative talent to build a new frontier."
+      },
+      {
+        "title": "Community Syndicates",
+        "description": "Blend DAOs, film collectives, and investor networks into a modern corporate playbook."
+      }
+    ]
+  },
+  "project": {
+    "name": "Stand With Crypto Arizona",
+    "problem": "Arizona’s explosive crypto potential needed coordinated leadership to channel policy, capital, and community momentum.",
+    "solution": "Shelton orchestrates weekly Stand With Crypto meetups, large-scale events like Ethereum Phoenix, and partnerships with BitAngels, AI Film 3, and Devils DAO to align stakeholders.",
+    "value_proposition": [
+      "Connect with 55,000+ Arizona crypto advocates ready to support compliant innovation.",
+      "Tap a network spanning policy leaders, chip manufacturers, creatives, and venture capital.",
+      "Bridge grassroots energy with institutional maturity for founders seeking capital and clarity."
+    ],
+    "experience": {
+      "headline": "Welcome to Arizona’s crypto syndicate.",
+      "copy": [
+        "Weekly meetups cultivate relationships across policy, finance, engineering, and film.",
+        "Ethereum Phoenix proves Arizona’s appetite for regulatory-first crypto innovation.",
+        "Devils DAO, Crowd Ctrl, and Pizza DAO collaborations showcase cultural momentum."
+      ]
+    },
+    "features": [
+      "Statewide advocacy campaigns tailored to regulatory priorities",
+      "Founder-friendly pitch platforms in partnership with BitAngels",
+      "Creative showcases with AI Film 3 and I Film 3 ecosystems",
+      "On-ramps to Devils DAO, Crowd Ctrl, and AZ Crypto & AI Council communities"
+    ],
+    "traction": {
+      "advocacy_network": "55,000+ Stand With Crypto advocates activated in Arizona with 12 billionaires and 150,000 millionaires in state.",
+      "event_momentum": "Ethereum Phoenix launched with BitAngels, I Film 3, and Stand With Crypto collaboration, setting stage for 2026 expansion."
+    },
+    "call_to_action": {
+      "headline": "Ready to help build the Silicon Desert?",
+      "primary_cta": {
+        "label": "Join the Movement",
+        "href": "https://www.standwithcrypto.org/join"
+      },
+      "secondary_cta": {
+        "label": "Host an Arizona Meetup",
+        "href": "mailto:shelton@standwithcrypto.org"
+      }
+    }
+  },
+  "highlights": [
+    "Chapter President of Stand With Crypto, leading weekly mobilization across Arizona.",
+    "Head of Business Development at AI Film 3, bridging creatives and blockchain communities.",
+    "Founded Devils DAO and Crowd Ctrl to align capital, advocacy, and culture.",
+    "Former Verdure Capital COO overseeing $30M AUM across digital and physical assets.",
+    "Part of Pizza DAO’s Mafia Fam and stewarding AI Film 3 & Ethereum Phoenix initiatives."
+  ],
+  "quotes": [
+    {
+      "speaker": "Shelton Beascochea",
+      "text": "The state of Arizona is a blank slate. It’s a playground—and people have a lot of opportunity here."
+    },
+    {
+      "speaker": "Shelton Beascochea",
+      "text": "Billions of dollars have been brought to the state specifically for chip manufacturing. This is proof of concept for Arizona being the next Silicon Desert."
+    },
+    {
+      "speaker": "Shelton Beascochea",
+      "text": "My goal is not that PJ and I are the forefront—it’s that we activate communities so they can come to us and make these things larger."
+    },
+    {
+      "speaker": "Shelton Beascochea",
+      "text": "Stand With Crypto alone has over 55,000 advocates here. It’s huge—and it’s a market that is not conquered."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2022",
+      "event": "Co-founded Verdure Capital, managing a $30M diversified portfolio of digital and physical assets."
+    },
+    {
+      "year": "2024",
+      "event": "Became Arizona Chapter President of Stand With Crypto, launching weekly meetups."
+    },
+    {
+      "year": "2024",
+      "event": "Founded Devils DAO and joined Pizza DAO’s Mafia Fam to align culture and capital."
+    },
+    {
+      "year": "2025",
+      "event": "Co-hosted the inaugural Ethereum Phoenix with AI Film 3, BitAngels, and Stand With Crypto."
+    },
+    {
+      "year": "2025",
+      "event": "Co-founded Crowd Ctrl to accelerate grassroots organizing across Arizona."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "AI Film 3 / I Film 3",
+      "relation": "Creative collaboration",
+      "highlight": "Provides venues and media reach for Ethereum Phoenix and cultural activations."
+    },
+    {
+      "name": "BitAngels Arizona",
+      "relation": "Investment network partner",
+      "highlight": "Hosts pitch competitions aligning founders with investors and regulatory mentors."
+    },
+    {
+      "name": "Stand With Crypto Advocates",
+      "relation": "Grassroots base",
+      "highlight": "55,000+ Arizonans ready to engage in policy, investment, and adoption initiatives."
+    }
+  ],
+  "contact": {
+    "press": "press@standwithcrypto.org",
+    "partnerships": "partners@standwithcrypto.org",
+    "investors": "investors@devilsdao.xyz",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/shelton-beascochea",
+      "x": "https://x.com/StandWithCrypto"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Ethereum Phoenix Main Stage",
+      "url": "assets/eth-phoenix-events/IMG_9274.jpg",
+      "thumbnail": "assets/eth-phoenix-events/IMG_9274-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Stand With Crypto Arizona Meetup",
+      "url": "assets/eth-phoenix-events/IMG_9438.jpg",
+      "thumbnail": "assets/eth-phoenix-events/IMG_9438-thumb.jpg"
+    },
+    {
+      "type": "image",
+      "title": "Devils DAO Community Session",
+      "url": "assets/eth-phoenix-events/IMG_9332.JPG",
+      "thumbnail": "assets/eth-phoenix-events/IMG_9332-thumb.JPG"
+    },
+    {
+      "type": "video",
+      "title": "Stand With Crypto Arizona Highlights",
+      "url": "https://videos.example.com/standwithcrypto-az-highlights.mp4",
+      "thumbnail": "assets/eth-phoenix-events/standwithcrypto-highlights-thumb.jpg"
+    }
+  ]
+}
+

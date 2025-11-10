@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "title": "Sarah Richardson | Founder, RETEQ",
+    "description": "Discover how Sarah Richardson is modernizing real estate with RETEQ, a blockchain-enabled MLS platform powered by generative AI and seamless compliance.",
+    "keywords": [
+      "Sarah Richardson",
+      "RETEQ",
+      "real estate blockchain",
+      "MLS modernization",
+      "generative AI",
+      "compliance-first proptech"
+    ]
+  },
+  "hero": {
+    "name": "Sarah Richardson",
+    "title": "Founder & CEO, RETEQ",
+    "tagline": "Re-architecting real estate with compliant, blockchain-enabled MLS infrastructure that teams actually adopt.",
+    "primary_cta": {
+      "label": "Request a RETEQ Demo",
+      "href": "https://www.reteq.io/demo"
+    },
+    "secondary_cta": {
+      "label": "Download the RETEQ Brief",
+      "href": "https://www.reteq.io/brief.pdf"
+    },
+    "media": {
+      "portrait": "assets/reteq-sara-portrait.jpg",
+      "background": "assets/reteq-hero.jpg"
+    }
+  },
+  "about": {
+    "summary": "Sarah Richardson is a Scottsdale-based real estate leader who scaled Tru Realty to $2B in sales across 42 states and now modernizes brokerage operations with RETEQ’s generative AI and blockchain MLS platform.",
+    "origin_story": {
+      "headline": "From Tru Realty to nationwide impact.",
+      "copy": "After founding Tru Realty in 2010, Sarah assembled a dedicated team that closed 450+ profitable deals in six years, expanded to 42 states, and delivered over $2B in transactions as one of the largest female-owned brokerages in the US."
+    },
+    "inflection_point": {
+      "headline": "Pioneering blockchain brokerage operations.",
+      "copy": "In 2017 she executed the first US investor cash transaction on Ethereum with partner Propy, then rebuilt her internal tooling into a generative AI assistant that now powers RETEQ’s blockchain-based MLS."
+    },
+    "expertise": [
+      "Real estate operations",
+      "Regulatory compliance",
+      "Proptech product strategy",
+      "Generative AI deployment"
+    ]
+  },
+  "mission": {
+    "headline": "Rearchitect brokerage economics with a compliant, AI-native MLS platform that the early majority embraces.",
+    "pillars": [
+      {
+        "title": "User Adoption First",
+        "description": "Hide the Web3 jargon and deliver the frictionless experience agents, brokers, and associations already expect—just better."
+      },
+      {
+        "title": "Unified Infrastructure",
+        "description": "Replace fragmented point solutions with a single login that orchestrates underwriting, vendors, and client communications."
+      },
+      {
+        "title": "Truth of Source",
+        "description": "Leverage distributed ledgers to become the verifiable data source that legacy MLS systems can trust."
+      }
+    ]
+  },
+  "project": {
+    "name": "RETEQ",
+    "problem": "Brokerages face compressed commissions, rising compliance costs, and fragmented tech stacks with 5–10 disconnected tools across 480+ MLS databases.",
+    "solution": "RETEQ delivers an enterprise generative AI platform layered on blockchain-backed MLS infrastructure, changing the economics of running a brokerage with single sign-on, compliant automation, and verifiable data pipelines.",
+    "value_proposition": [
+      "Cut logins from ten to one while preserving familiar workflows and nomenclature.",
+      "Deploy the first LLM that mimics a broker’s response with 98% accuracy, accelerating escrow by days.",
+      "Provide associations and brokers with ledger-backed audit trails that ingest NAR settlement updates in real time."
+    ],
+    "experience": {
+      "headline": "RETEQ brings MLS modernization to the professionals who need it now.",
+      "copy": [
+        "Agents and brokers gain a single secure login that mirrors their existing tech stack—but smarter and faster.",
+        "Associations manage inventory, compliance, and communications through a broker-grade AI assistant delivering immediate, accurate answers.",
+        "Vendors integrate once and collaborate across the entire ecosystem without losing data fidelity or compliance context."
+      ]
+    },
+    "features": [
+      "Single sign-on portal covering legacy MLS tools and proprietary workflows",
+      "Generative AI broker assistant trained on NAR, AAR, and custom policies with 98% accuracy",
+      "Distributed ledger accounting, audit trails, and end-ledger reporting",
+      "Role-based dashboards for brokers, agents, associations, vendors, and compliance teams"
+    ],
+    "traction": {
+      "industry_backing": "Supported by Arizona’s BitAngels network, Keller Williams International, and Tru Realty alumni collaborating on the end-to-end platform.",
+      "market_insight": "Addresses 480+ MLS databases nationwide—14 in Arizona alone—while adapting instantly to NAR settlement documentation."
+    },
+    "call_to_action": {
+      "headline": "Ready to modernize your MLS operations?",
+      "primary_cta": {
+        "label": "Schedule a Discovery Call",
+        "href": "mailto:hello@reteq.io"
+      },
+      "secondary_cta": {
+        "label": "Join the Pilot Program",
+        "href": "https://www.reteq.io/pilot"
+      }
+    }
+  },
+  "highlights": [
+    "Scaled Tru Realty into one of the largest female-owned brokerages in the US, expanding to 42 states and $2B in sales.",
+    "Rebuilt an internal brokerage platform into RETEQ’s enterprise generative AI system embedded within a blockchain MLS.",
+    "Designs for the early majority: fewer passwords, familiar interfaces, and quietly powerful Web3 infrastructure.",
+    "First US realtor to execute an investor cash transaction on Ethereum, proving Sarah’s compliance-first approach to innovation.",
+    "Works with Arizona ecosystem leaders to assemble the end-to-end solution real estate has waited decades for."
+  ],
+  "quotes": [
+    {
+      "speaker": "Sarah Richardson",
+      "text": "I’m a local Phoenician. Live here over in Scottsdale, Arizona—and my domain expertise is in real estate."
+    },
+    {
+      "speaker": "Sarah Richardson",
+      "text": "I have now re-architected that into a generative AI solution embedded into a blockchain-based MLS system."
+    },
+    {
+      "speaker": "Sarah Richardson",
+      "text": "The average age of a real estate agent is about 56 to 57 years old—they hear Web3 and they just glaze over."
+    },
+    {
+      "speaker": "Sarah Richardson",
+      "text": "When we can create an ecosystem that mimics those 5 to 10 technologies with one login, we believe we can have mass adoption."
+    },
+    {
+      "speaker": "Sarah Richardson",
+      "text": "We need to be the truth of source for the data—and we’ve found a way to push into those legacy systems."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Early Career",
+      "event": "Began as an agent and broker across residential and commercial real estate."
+    },
+    {
+      "year": "2010",
+      "event": "Launched Tru Realty to capitalize on MLS-driven deal flow, growing to 42 states and 450+ profitable transactions."
+    },
+    {
+      "year": "2017",
+      "event": "Became the first US realtor to execute an investor cash transaction on Ethereum in partnership with Propy."
+    },
+    {
+      "year": "Generative AI Platform",
+      "event": "Rebuilt internal tools as a generative AI solution to streamline brokerage operations."
+    },
+    {
+      "year": "RETEQ Launch",
+      "event": "Embedded the AI platform into a blockchain-based MLS, partnering with Arizona innovators to deliver the first end-to-end solution."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Arizona BitAngels Network",
+      "relation": "Ecosystem collaborator",
+      "highlight": "Connecting technologists, regulators, and investors to accelerate RETEQ’s end-to-end platform."
+    },
+    {
+      "name": "Tru Realty & Keller Williams Partners",
+      "relation": "Expansion network",
+      "highlight": "Provide design feedback across 42+ states to ensure RETEQ meets brokerage, franchise, and compliance requirements."
+    }
+  ],
+  "contact": {
+    "press": "press@reteq.ai",
+    "partnerships": "partners@reteq.ai",
+    "investors": "investors@reteq.ai",
+    "social": {
+      "linkedin": "https://www.linkedin.com/company/reteq",
+      "x": "https://x.com/reteq_io"
+    }
+  },
+  "assets": [
+    {
+      "type": "image",
+      "title": "Sarah at Ethereum Phoenix",
+      "url": "assets/reteq-events/IMG_9394.JPG",
+      "thumbnail": "assets/reteq-events/IMG_9394-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "RETEQ Product Workshop",
+      "url": "assets/reteq-events/IMG_9335.JPG",
+      "thumbnail": "assets/reteq-events/IMG_9335-thumb.JPG"
+    },
+    {
+      "type": "image",
+      "title": "Arizona Real Estate Leadership Roundtable",
+      "url": "assets/reteq-events/IMG_8517 copy.jpg",
+      "thumbnail": "assets/reteq-events/IMG_8517-thumb.jpg"
+    },
+    {
+      "type": "video",
+      "title": "RETEQ Platform Overview",
+      "url": "https://videos.example.com/reteq-platform-overview.mp4",
+      "thumbnail": "assets/reteq-events/reteq-overview-thumb.jpg"
+    }
+  ]
+}
+
