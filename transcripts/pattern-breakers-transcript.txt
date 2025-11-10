@@ -1,0 +1,1036 @@
+0:03
+>> Hey, Mike. Hey. Let's do this. So this may be different from some sessions in the sense
+0:10
+that normally you present something or you do a typical fireside chat where you prepare each other with
+0:16
+questions and stuff like that. But I had a chance to work with Jim a long time ago.
+0:21
+So when he was at Excel, he was the lead investor for Excel in
+0:27
+Motive, which was a company I helped start, and Jim had also encouraged me to enter the venture business in 2005,
+0:35
+and was one of the sort of the first people to tell me he thought that I could do this job, and so I invited him to
+0:42
+come, come do this together, wondering if he would do it. But I thought, okay, he lives in Austin.
+0:48
+Maybe. Maybe I've got a shot. So thanks for coming. I think this is going to be fun. It's a.
+0:53
+>> Pleasure. Mike and I did this without prompting. But if you have not read his book after this later tonight.
+1:03
+Go to one of the great independent bookstores in Austin, Texas. Pick it up. It's brilliant.
+1:09
+It's honestly brilliant. Mike, congratulations. Well, thanks for all your support with it. Um, so they, you know, Jim sends out a book once
+1:17
+a year and, you know, like, I remember one year you sent out Titan about Rockefeller, and there was another book
+1:24
+that you sent out about risk and Michael Dell's book. So, uh, Jim has been super supportive of our efforts
+1:32
+to get the ideas out. So I thought, while we have you here, um, so the, you know,
+1:38
+the the idea behind Pattern Breakers is that, um, you have some of these startups that don't just achieve success
+1:45
+but achieve just extraordinary outlier success that literally changed the future.
+1:51
+And, you know, you're pretty qualified to talk about some of those folks. You know, you've worked with people like Mark
+1:57
+Zuckerberg, Michael Dell. You know, Jeremy Allaire, who I think is not as well known
+2:03
+as they are, but obviously. Will. Be. He's had a pretty good run and is about to, um, why don't
+2:10
+we start with Mark Zuckerberg? Like what? What? How did you meet him and what what caused you
+2:17
+to invest in a 19 year old, maybe 20 years old? At the time. He was 20.
+2:22
+Okay. He was he was 20. He was, you know, he was getting up in years. He was getting up in years. Uh, well, first a pleasure.
+2:29
+This guy is a once in a generation, like, venture capitalist.
+2:34
+And so it's been a privilege to be working with Mike on
+2:40
+the venture side. I knew him when he was a terrific VP of marketing. It's funny when we reflect you were living in Austin.
+2:48
+When I invested, I was living in Greater Palo Alto, and here I've
+2:53
+been in Austin for the last five years, and It's it's fun.
+2:58
+And for all of you who are thinking about Austin or if you're here, this is just a phenomenal place to be
+3:06
+a builder, to start companies. And I love the Valley. So it's not zero sum, but Austin, Texas just has
+3:14
+an optimism and an energy that's it's really terrific. So a mark a again moments for reflection are
+3:22
+unfortunately too rare. It was April of 2005 and I had turned down a couple of call
+3:32
+it first generation social networking companies Myspace,
+3:37
+Friendster. There were 2 or 3 others, one named tickle. And in each of these cases there was some real user momentum,
+3:47
+but there was no identity. So if we took the case of Myspace and Friendster, they
+3:55
+started having significant daily active monthly active users, but suddenly people would have four or 5 or 6 accounts.
+4:03
+So it became very much a defeat of purpose.
+4:09
+I met Mark in April of 2005 on a Monday and he was 20.
+4:17
+He had come to Palo Alto and a couple people introduced us.
+4:22
+So we got together in Palo Alto. And I'll never forget when he gave me that first the Facebook demo.
+4:30
+And at the bottom was a mark Zuckerberg production. So again, one of those insights which really has resonated
+4:40
+with me over the years is here's an entrepreneur who is taking full responsibility of the product.
+4:50
+The other piece that really struck me in this 20 year
+4:56
+old Mark Zuckerberg at the first meeting was to be on the Facebook.
+5:04
+You needed a personal edu account. And the great thing and part of the brilliance of
+5:12
+the early Facebook momentum was with an Edu account. All the universities and colleges were the way
+5:21
+that identity was proven. So we didn't have to run into what Friendster,
+5:28
+Myspace and others ran into. So there were two insights at that first meeting, and we
+5:33
+spent the week together. That first week of April 2005. I knew there were other offers from a one from
+5:41
+a large publishing empire, so I knew I had to move quickly.
+5:46
+And so we're negotiating. We're learning about each other. We had dinners, breakfasts, and then finally on Thursday of
+5:56
+that week, four days after I met him, I said, Mark, I'm convinced I'd like to work with you.
+6:01
+And he said, if you join the board, that's condition one. And we were quite off on price.
+6:12
+But we converged in two hours. And I said, here's what I'm willing to do, which was 50
+6:20
+very expensive for that time, five 0 million pre-money buying 15% of the Facebook.
+6:29
+And we shook hands. The only other fun part of it for the first 30 days, at
+6:40
+the end of the month, just as we're about to close. And Wilson Sonsini was my lawyer.
+6:48
+I'm in my office in Palo Alto, and I was served with two lawsuits that were part of the original
+6:58
+Facebook, if you will, or not part of the original Facebook saying that they had co-invented Facebook.
+7:05
+So I had one hour to make a decision. Do I close and wire the money, or do I wait and try to get more
+7:16
+clarity about the lawsuits? And I knew that if I waited, this would move in
+7:22
+a different direction. And so I called Mark and said, by the way, there
+7:27
+are these two lawsuits I've just been served with. And he said, what do you what do you think?
+7:34
+And I said, Mark, I'm in. So we shook hands and I joined the board. It's been quite a ride.
+7:40
+And I'm curious, you know, you'd mentioned that Mark had an insight, several insights, right, about identity.
+7:47
+What do you think were the key insights behind Facebook and just looking back on Facebook and a lot
+7:54
+of your investments. How important is an insight and like what is an insight
+8:00
+even mean to you in a startup? Well, there's a video. It's actually my pinned ex tweet, if you will, if I can
+8:10
+still use tweet a mark. And I did an interview at Stanford in the fall of 2005,
+8:19
+and it's about an hour. And for those of you who study entrepreneurship,
+8:25
+listen to the then 21 year old Mark Zuckerberg. He talks about one day connecting billions of
+8:33
+users, and he did that in that first week. By the way. He talks about wanting to do additional products around
+8:43
+the Facebook, including photos. First we had Facebook photos and he was courageous enough
+8:49
+to say Facebook photos is good but not great. We got to buy this company called Instagram,
+8:56
+which we did for a. Billion for. $1. Billion at the time. Which seemed crazy.
+9:02
+And there were a series of other insights around when he wanted to bring in, quote unquote, professional management,
+9:11
+a really great exchange. And I'd say that with Mark, first of all, he's a genius.
+9:21
+People talk about Elon. I had the chance to work closely with Steve Jobs for many years.
+9:27
+Mark Zuckerberg is just an unqualified genius and passionate. Of course, in all that he does, he talked about messaging at
+9:37
+that age 21 video, photos. And we had a lot of missteps, as you all know, along the way,
+9:46
+some disastrous product launches around advertising. We had a few security and privacy issues
+9:51
+along the way. Just a few. Never will change. But the perseverance, the courage, what you see in
+10:01
+Mark now that he's 40, soon to be 41, is remarkable.
+10:07
+And what a journey he hires extraordinarily well. And I would also say we have an entrepreneur in
+10:16
+town by the name of Ellen. Ellen hires phenomenal people, phenomenal talent.
+10:23
+His direct reports are incredible. And Mark did the same and does the same.
+10:32
+So there's that hiring element where there are just some people.
+10:37
+When we all sit around boardrooms and we say only hire A or A+ people A, that's conventional wisdom.
+10:49
+It's what people talk about. And then there's some who actually do it, and there are some who will say, like, Mark, if we don't hire this person,
+10:58
+it might take us six months. Our product will be 6 to 12 months late. Jim, are you okay with that?
+11:04
+And the answer from people like you, Mike. Almost always. Yes.
+11:10
+Those hires, whether it's scaling from 10 to 100 or 100 to 1000, 1000 to 10,000, the first couple of years is everything.
+11:21
+And then you have to continue that quality. Yep. Um, and just if I'm, if my memory serves me, this, uh, talk
+11:30
+that you're referencing was at the Stanford entrepreneurial thought leaders like in 2005.
+11:36
+Uh, I view this as an essential watch. And the reason is that, um, when these companies
+11:42
+are really successful, people tend to misremember how it really happened. You know, even the founders often remember knowing things
+11:50
+that weren't so at the time. It's just inevitable.
+11:56
+Myself included, I find myself always struggling to deal with my own ignorance about what I really knew at the time
+12:03
+and what was really happening. So the value of seeing something like that is you get
+12:10
+to see him when he was like 21 years old or 20 years old, you get to see exactly what he thought at that exact moment.
+12:18
+And what I would encourage people to think about is if you want to understand the success of, say, Airbnb, don't listen to
+12:26
+an interview from Brian Chesky in the last five years because he has a reason to describe Airbnb differently now.
+12:32
+He's a mainstream household name company. What you want to find is, like the earliest known example,
+12:38
+the most unpolished raw. Because like, the startups always sound a lot more rational
+12:47
+in hindsight, but what I find is that startups that are great are like capitalist mutations. They're wild.
+12:52
+It's like finding the first version of a beaked finch in the Galapagos Islands that's never been spotted before.
+12:59
+And so there's there's this wildness and magic to the wildness that comes with the territory.
+13:05
+But the stories that are told after the fact tend to sanitize things a lot. Um, so one one thing that I want to try out and see if you would
+13:14
+agree, I don't I don't know if we've ever really talked about this explicitly. Um, one theory I have about these startups is that, um,
+13:22
+better doesn't matter when it comes to startups. So my, my theory is that, um, startup capitalism is
+13:30
+a different kind of capitalism, that a startup capitalist doesn't win by being better. Because if you're if you're better, then you're playing in
+13:37
+somebody else's sandbox and then your, your upside is limited. And that the best startups I've found are radically
+13:44
+different Somehow they force a choice and not a comparison. So like you talked earlier about Ellen, like the Cybertruck.
+13:53
+So how many people have a Cybertruck? You have? Okay, how many people am I?
+13:58
+The only one. Are there no other hands? How many people want a Cybertruck? How many people don't want a Cybertruck?
+14:05
+Okay. So like. By the way, I love my Cybertruck. And I also love my Dodge Ram.
+14:11
+So so so by the way, like you may you may like the Cybertruck. You may dislike the Cybertruck.
+14:16
+You may think the Cybertruck is ridiculous, right? Like when I when I first saw the Cybertruck launch, I thought
+14:23
+maybe Elon was joking. I thought, is he really going to sell that truck?
+14:29
+Um, but here's one thing I bet nobody ever says after seeing the Cybertruck. How does that compare to a Ford F-150?
+14:36
+Right? So, like, the thing that I believe is that a startup fails or at least doesn't achieve maximum
+14:43
+success if it has to play the comparison game right. You want to force a choice.
+14:48
+Elon says, look, you may like my truck. You may not like it. Live in my future or don't.
+14:54
+And I've seen time and again that the you know, when Twitter came out nobody said how does that compare to blogs
+15:01
+when ride sharing came out? Nobody said, how is that different from taxis? It was self-evident how it was different.
+15:07
+And so so I've just seen part of to me, part of what an insight is, is they, they, they defy comparison completely.
+15:16
+I think that's right. But.
+15:21
+In some cases, the Facebook story or others, we were
+15:27
+second to market. We were not first, and in some ways in a very fundamental ways.
+15:35
+Instagram, a number of companies along the way. Spotify.
+15:40
+There was differentiation. But you and I talked and have talked about Daniel
+15:46
+Ek, who is certainly one of my favorite entrepreneurs I've ever worked with.
+15:51
+And when I invested in Daniel, and again, it was after a two hour meeting in Europe where Mark Zuckerberg told me, get
+15:59
+on a plane, fly to Stockholm and meet Daniel Ek. He's doing amazing things in music.
+16:06
+So I got on a plane. I met Daniel in Europe after a couple hours.
+16:11
+I said, you got to just back this guy. He's just phenomenal. But music was very undifferentiated.
+16:19
+There had been a number of failures along the way. We all remember the history of Napster and many others.
+16:25
+But Daniel had a very profound, again, insight, his insight. I'm starting in Europe.
+16:31
+I'm not taking on the US labels. I'm building critical mass in Europe at the right time.
+16:37
+I'm going to fight the fight. And Your question is profound in many ways,
+16:44
+because the Cybertruck. You're absolutely right. Unique. Differentiated.
+16:52
+But then in some of these, where they're not necessarily the first, there's a profound insight where in the cases where
+17:05
+I've been lucky and fortunate, there's a gut instinct which
+17:11
+tries to understand in real time, is this insight important
+17:18
+enough to be a differentiator for years? And in some cases, yes, in many cases.
+17:26
+Most cases no. Yeah. In fact, if my memory serves me on Daniel Ek, part of
+17:32
+his insight was he wanted to be able to stream all of the music in the world. And so he goes to the record labels and says, well,
+17:39
+everybody pirates, all the music in Sweden anyway, so you're no worse off, so you might as well let me pay you to
+17:46
+stream every song in the world, as long as it's only in Sweden. But there's an insight there, right?
+17:52
+Which is okay, I'm going to define my opportunity space. What most entrepreneurs would be tempted to do is say
+17:59
+America is the big market. I'm going to go to America. I need to succeed there. But there's a catch 22, right? Because none of the labels in America are going to do
+18:06
+anything with you. So what does Daniel Ek instead do? He says, what if I defined my market as such a tiny
+18:12
+niche, that I can provide the entire value proposition without apology?
+18:17
+And like nobody else did, that nobody else came even close to doing that. And I think that that was just a key unlock.
+18:24
+Right. Because he was able to prove he was able to prove that he could go to any party in Sweden and say, hey, let me
+18:30
+show you Spotify. Name. Name a song, any song. And he could play it. And it was a great parlor trick.
+18:36
+Now all of a sudden he could show the music companies, hey, let's not just do it in Sweden. Let's do it in Scandinavia.
+18:42
+Let's do it through Europe. And he could just spread beyond over time. I think there was that.
+18:48
+The the other fascinating lesson in the Spotify case was, again,
+18:55
+going back to the 2005 fall video with Mark Zuckerberg.
+19:02
+Mark, in that video talks about Facebook one
+19:08
+day becoming a platform. And sure enough, two years later, in 2007, we launched
+19:17
+Facebook Platform and started to try to attract third parties to the platform.
+19:25
+The first year we didn't have much critical mass for sure, but one of the great insights Daniel had in 2009 2010 was this
+19:37
+platform is truly important. I'm going to double and triple down on Facebook
+19:46
+as a platform, and I will be the key music site. No one else is doing that.
+19:53
+So part of certainly the early success of Spotify was
+20:00
+looking at what might become a fundamental new platform,
+20:05
+learning everything about that platform and going nonstop
+20:11
+full speed on that platform. If that platform would have failed, the world
+20:18
+would be different. And so again, it takes a lot of courage. You have to bet on the right platform, but when you bet on
+20:26
+the right platform and you go all in with the right feedback, uh, that's I think, what has propelled Spotify By
+20:36
+to last I checked, it's 100 billion plus or minus little plus on market cap.
+20:43
+You know, and the conventional wisdom is you can't make money on music. Correct. You're just doomed if you ever try.
+20:48
+And here it is, $100 billion. But I'll also say this about both Facebook slash meta and Spotify.
+20:56
+I I'll talk about music for a moment. I'm a passionate lover of music.
+21:03
+I'm a terrible musician, but a lover of music. And here in Austin and when I travel, I'm fortunate to
+21:11
+meet with some great musicians, famous and not so famous.
+21:16
+And in many of these cases they'll say, Jim, how did you back Spotify? They have totally, uh, taken out the economics
+21:25
+for us as musicians. And they're good heated discussions in many cases.
+21:31
+And you would all imagine there are good heated discussions when I talk to people about Meta and Instagram and WhatsApp.
+21:40
+So it goes with the territory. I'm a believer that in a lot of these cases and we haven't
+21:49
+even talked about AI yet. Uh, it's happening and it's happening with AI in ways
+21:56
+that are far more profound than social networking or
+22:02
+mobile or the internet. And so where are we? I was with Michael Dell earlier this week.
+22:08
+We were talking about it. We agreed a this is the first if baseball analogy.
+22:18
+We're in the first two batters of the first inning. And so again, it's so profound.
+22:25
+It's so fundamental. And again, it gives me great optimism.
+22:32
+And I know it gives you great optimism. Uh, the opportunities, both from a deep technology standpoint
+22:40
+and novel usage standpoint around these AI technologies.
+22:45
+I've never seen anything like it. And for the entrepreneurs in the audience, I can't imagine.
+22:54
+I truly can't imagine a more exciting time. So and by the way, just to remind folks, um, if you
+23:01
+have questions right, there's a mechanism to ask those. We're going to take a bunch towards the end.
+23:06
+You know, we'll try to leave 15 to 20 minutes or so for Q&A. So so maybe it's a good time to shift gears,
+23:13
+though a little bit. Right? Because so far we've been telling stories about the past. And, you know, stories about the past can be useful
+23:22
+if you find the authentic ground truth about them. Right? I found that that can be very valuable in understanding
+23:29
+because the other the other thing we haven't really talked about, about the past is like this sense of inevitability.
+23:34
+Some of them have. Right. And you can you can see that in Zuckerberg's Stanford ETL talk
+23:39
+with Jim like, there's this, you know, you were involved with Marvel for a while.
+23:45
+There's a character, Thanos, right? Who says, I am inevitable. And like some of the great founders that I've seen, they
+23:52
+talk about the future they're going to create almost as if it's already happened. Right? Like, to them, to them, it's obvious that it's
+23:59
+going to happen. And you're just like, you just somehow want to get behind it.
+24:04
+You just somehow, you just somehow know that they know that they've just visited the future before we did somehow.
+24:11
+Well, I got to touch on Marvel because it's people ask me of the boards you've been on and the companies
+24:18
+you've invested in, what are some of your favorites? And on Marvel, we were talking about it.
+24:24
+Mike. I ended up cold calling the CEO, visiting him in New York.
+24:31
+It was a very undervalued public company. But I loved Marvel Comics, and I felt Marvel and digital
+24:39
+comics on the internet. There was a great opportunity to unlock. We talked.
+24:44
+Ike Perlmutter, the CEO and owner, invited me to invest and join the board.
+24:50
+So there were many crazy stories along the way from 2005 to 2009, before we sold to Disney and one board meeting,
+25:00
+we had a very small board. We had a very young kick ass producer, Kevin Feige,
+25:08
+who now runs the Marvel. Marvel division at Disney. And Kevin came to the board.
+25:14
+We had released Iron Man, and he said to the five of
+25:19
+us, I don't understand why in all these superhero movies,
+25:25
+there's only one superhero Batman, Spider-Man, Wonder
+25:30
+Woman, on and on. And so we're all looking around thinking about it.
+25:35
+And he said, what if we put 4 or 5 of these superheroes together in a movie and we're looking around thinking,
+25:46
+that's a pretty good idea? And he said, and we'll call it The Avengers. That is how the Avengers movie franchise started,
+25:54
+with Kevin coming to us and saying, why not? Let's put these superheroes together.
+26:00
+So again, when we reflect on things, I run into a lot of
+26:05
+people, mostly in Europe, where they'll say, well, hasn't everything great already been developed, invented and so on.
+26:12
+And I tell them this story. This wasn't that long ago. This was 2007, where there was no Avengers franchise that was
+26:25
+built, and it was the insight of one person coming to us saying, let's give it a shot.
+26:31
+And I continuously am amazed at creativity, brilliance.
+26:37
+Sometimes the ideas are so simple and obvious, but we just haven't thought about it.
+26:43
+And that's the joy of venture capital and entrepreneurship and everything we do. So move into the future then I you've been on this
+26:53
+for a little while now. Eight years. Yeah. So what? You know, what drew you to it and why do you think it's so
+27:00
+profound, apart from the obvious that we all see with ChatGPT and Claude and the cool stuff.
+27:06
+What what what got you excited about it? Um, I was lucky.
+27:12
+In 2014 and 2015, I was spending a lot of time with Stanford and Harvard on volunteer work as a member
+27:24
+of the Harvard Corporation and various Stanford committees and a number of the professors in both cases were really
+27:33
+interested in neural nets. And there were no applications at that point that were real.
+27:40
+Perhaps there were DoD applications. So I started noticing around 2015, 2016, these brilliant
+27:49
+professors and I would throw in MIT and others. At the time, I was not yet in Austin, so not yet UT first hand
+27:58
+evidence, but the professors were really excited about what
+28:04
+was happening from an underlying scientific standpoint. And then there were two dinners again in 2016 that I had.
+28:13
+One was a board dinner at Facebook where Mark Zuckerberg and I started talking about what's really
+28:20
+interesting, and I told him about these conversations with the academics, and he said, I think this AI thing
+28:28
+might be a big deal. And then the following week, I was with again one
+28:35
+of the really phenomenal thinkers, young executive
+28:41
+leader named Sergey Brin. And we were exchanging some ideas. He did not like Facebook.
+28:47
+I don't need to go into that. But Sergey said, what are you working on, Jim? And I told him again about these conversations and he said, I'm
+28:58
+really interested in that. And I don't hear from any venture capitalists
+29:03
+who are pursuing artificial intelligence. So with those two conversations and the scientific
+29:09
+conversations, I started reading and learning everything I could, both at universities and journals and so on, threw
+29:20
+myself into it, and then started investing in general AI in 2017 17 and 18, and then became also very interested in
+29:30
+certain verticals. I and the life sciences and medicine and finance,
+29:38
+and have just continued to really try to push that envelope. And again, if I was advising students, graduate students,
+29:46
+postdocs, those of us who are forever students learn
+29:52
+linear algebra and apply linear algebra, which sits at the heart of AI and quantum, two fields of real passion, whether it's
+30:01
+biology or chemistry, whatever it might be. And the future could not be brighter.
+30:08
+That interdisciplinary approach. As you know, Mike, there was a time, I think, where you
+30:15
+and I could back the five geniuses out of MIT. And today we're backing the five geniuses out of
+30:25
+UT or MIT or Stanford. Others? Columbia. But they might be computer science geniuses.
+30:33
+If they're going after a new drug discovery application, they
+30:39
+better have their equivalent from the world of medicine. And as you know better than anyone, I'm learning these
+30:48
+cultures are fragile. To get a Nobel Prize winner in biology to interact with
+30:59
+the 35 year old, she or he out of Google, it's really hard. But that's the magic.
+31:04
+And that sits at the fundamental opportunities of where we are today.
+31:10
+Dialing forward. There's no better area I can think of than where AI meets
+31:15
+medicine, the life sciences. And so that's an area of deep interest for me personally.
+31:20
+And Jim, I've heard you talk in the past about the just the value of having a prepared mind.
+31:27
+When you think about investing, or about just business in general. How do you how would you think about I through
+31:35
+the prepared mind lens? It really helps. Sometimes you throw it away.
+31:43
+So Spotify perfect example where I did not have a prepared mind around music.
+31:50
+It was not an initiative I was pursuing.
+31:55
+I had some ideas of what I was looking for, and I had personal passion for music, as I mentioned.
+32:01
+But in other areas you can do great analysis going in as an investor and have some characteristics from
+32:09
+a business standpoint. Founder characteristic, perspective. Many of the things you lay out in the book Pattern
+32:16
+Breakers, where you can put a thesis together and spend six months meeting entrepreneurs, Innovators,
+32:24
+academics and begin to refine, test, retest the hypothesis.
+32:30
+And so that is the essence of the prepared mind. So when you see that team, wherever they might be,
+32:39
+and they strike a chord relative to many of the underlying characteristics, you can move very quickly
+32:47
+and decisively a lot of the venture capital business. And I'd be interested in your views on this, Mike.
+32:53
+You have to see the best deals. First and foremost, you have to have a prepared mind.
+33:00
+You have to have the entrepreneurs who are the referral network. The hardest job in the world is being an entrepreneur
+33:08
+makes venture capital look like child's play. And I think that seeing the best in a certain area is everything.
+33:18
+So if we go back to the life sciences now, if I am not seeing personally the very best computational biology
+33:29
+companies in the world. If there's a team where it might be out of Cambridge
+33:35
+in the UK, if I'm not interacting and seeing that team, I've dropped the ball and I have failed.
+33:44
+And that is the essence, I think, of so much of what we do. Because greatness is just so rare.
+33:49
+Yeah. So, you know, one of the ways I've internalized the prepared mind notion.
+33:54
+So how many have ever heard of the quote from Louis Pasteur? Chance favors the prepared mind.
+34:00
+So, Louis, that's. More than cybertrucks. Yeah, it's got more takers of that than Cybertruck.
+34:07
+So, you know, he had this saying because he was constantly accused of getting lucky.
+34:13
+So you have all these discoveries, and people would say he was lucky. And so I may I may not be right about this.
+34:19
+It may even be his epitaph. Taff chance favors the prepared mind. But I started to think a lot about what does
+34:27
+that really mean? And what I came to, what I came to conclude is that
+34:32
+luck visits all of us frequently, but most of us are trying to get through the day.
+34:38
+Most of us are trying to get through our to do list, or trying to succeed on conventional terms
+34:43
+and conventional ways. The muse knocks on the door, and we don't answer it,
+34:48
+because our mind isn't awake to the possibility that
+34:54
+the muse is knocking. The muse doesn't come through the front door. She comes through the side door.
+34:59
+And so what I realized is that chance favors the prepared mind is not a recipe for success.
+35:06
+It's a way of showing up in the world. Right? Like, Louis Pasteur was really saying, the best way to come up
+35:12
+with breakthrough ideas is to be the type of person who notices breakthroughs when other people aren't listening, when other
+35:20
+people aren't willing to answer the door when the muse knocks. And I've noticed this time and again about the very
+35:27
+best founders is they just notice things that other people don't notice. They're just they've got their noticing filter on
+35:34
+volume 11, and it seems like they were lucky. And when you ask them, how did you figure this out?
+35:39
+They almost feel guilty because to them it didn't. It's like, what else are you going to do? I was obsessed with this.
+35:45
+I was pursuing it. But like this idea of chance favoring the prepared mind, I think is more profound than some people realize, right?
+35:53
+Because it's like the prepared mind. Prepared minds are more likely to be lucky because they're
+35:58
+more awake to the possibility of the muse knocking. I think.
+36:03
+I think that's profound. And I would always say, you need some luck.
+36:11
+And we were talking about, uh, again, one of the entrepreneurs
+36:17
+who I think is off scale. Brilliant. A guy named Jeremy Allaire and I backed Jeremy.
+36:25
+We bought his company when I was on the board of a multimedia company called Macromedia.
+36:31
+I backed him in a company called Brightcove, which was enterprise multimedia management services.
+36:37
+And then in 2013, Jeremy and his co-founder, Shawn and I took
+36:44
+a walk in Harvard Square. They were living in Boston. And in 2013, Jeremy said, I believe that
+36:54
+crypto and bitcoin are the future of money. There's no reason why we should not have digital money.
+37:02
+And I talked to him for about two hours and again, we had a negotiation in Harvard Yard and then we settled on a deal.
+37:11
+We shook hands. And you've all followed crypto and you followed
+37:18
+the ups and the downs. There have been some near-death moments, at least half a dozen
+37:24
+in this company's circle, which is known for its US dollar coin.
+37:30
+And today it's looking extraordinarily bright.
+37:36
+That is the courage and perseverance and brilliance
+37:42
+of Jeremy Allaire, who, through the darkest of times would
+37:48
+listen, who would motivate his team, who would not throw in
+37:54
+the towel? And my goodness, that set of personal traits with a healthy
+38:03
+dose of now luck which was needed is, I think, part
+38:12
+of the set of ingredients for really big breakout
+38:17
+companies, which you and I are in the business of trying to invest in, facilitate and and help in every way possible.
+38:27
+Yeah. And I mean, part of what I really appreciate about Jeremy is a lot of people got rich on crypto through each
+38:35
+wave, through pump and dumps and stuff like that. But Jeremy, the other guy who's this way is Brian
+38:40
+Armstrong at Coinbase. Yep. He was always willing to be the adult in the room, right? He's always willing to say, okay, in Jeremy's case,
+38:48
+stablecoins need to happen for for crypto to become legitimate
+38:53
+and for the rails of crypto to interoperate with the fiat rails, you need stablecoins.
+38:59
+I think Jeremy has been at the forefront of that for a while. Right. And he's been at the forefront of that when there were a lot of
+39:06
+other ways to make money more easily in crypto, for sure. Yeah. For sure. So, Mike, one one question I have for you.
+39:14
+I moved to Dustin. I see many friends here. I moved in 2019 and love it.
+39:24
+I'm forever Austin and yet there is a magic in a secret sauce in Silicon Valley.
+39:30
+From your perspective, talk about geography and location and how you think about that going forward.
+39:37
+Again for our packed house here at South-by. Yeah. So it's tricky because I get I get nervous about comparing
+39:47
+one locale to another because for me, a lot of the great startups happen one at a time, and they're sort of
+39:54
+a one time event and you're always looking for the best founder wherever they are. The thing that I think that Silicon Valley does
+40:01
+have, or at least the area I'm in, is the willingness
+40:06
+to suspend disbelief. And so when I was I remember when I was a student at Stanford, you'd sit there in a class on entrepreneurship
+40:14
+and they'd say, okay, this week we're going to talk about next. And Steve Jobs comes in and talks about next.
+40:21
+And here's my vision of where computers are going to go. And then the next week you have Nolan Bushnell of Atari.
+40:27
+And the next week after that you have Scott McNealy of sun. And so you look at these people and you say, you know, this
+40:35
+person's clearly smart, but do they know that much more than I know that much smarter? Are they two orders of magnitude smarter?
+40:42
+Like, I don't know, like if they can do it, why not? And it and it reminds me of the days of the gold rush.
+40:49
+Right. Which in many ways funded Stanford. You're sitting in a river.
+40:54
+You and I are both panning for rocks. And let's say you fish out a giant piece of gold.
+41:01
+Is my conclusion that necessarily that you're smarter than I am, or harder worker than I am?
+41:06
+Part of it is, hey, you just got to show up. You got to show up in the river with a pan looking for gold and the belief that it's possible to get the gold
+41:16
+is hugely important. Right. So when you're a student and you see Nolan Bushnell and Scott
+41:21
+McNealy and Steve Jobs and all these people, one week after the next, you're like, why not?
+41:26
+Why not me? And so I think that that that has been a big
+41:33
+advantage for that area. My my greatest hope for Austin would be that there's another
+41:40
+breakout success like, you know, another company where and ideally on the consumer side that has the same kind of impact
+41:47
+as like a Facebook or the same kind of impact as a Google. Because if that happened, the impact on entrepreneurship
+41:54
+writ large would be incalculable, because you'd have a bunch of people who believe, why not me?
+41:59
+When you see it happen in your backyard, it just seems obvious. And so I'd say that that has been where I'm hanging
+42:07
+out in San Francisco. Everybody thinks AI is going to power the next breakthrough, and everybody thinks that it's obvious.
+42:13
+And, you know, those those beliefs have a way of contributing to the reality of it. Yeah.
+42:18
+No, it's interesting because again, earlier this week,
+42:24
+I was doing this kind of session with Michael Dell. And first, Michael is a great advocate for the state of
+42:34
+Texas and of course, Austin. But then he raised a number of other points to this question.
+42:40
+And one was every great ecosystem for
+42:47
+entrepreneurs in the world and historically has been in
+42:52
+around a great university. Yeah. And when we think about venture capital, if somebody did a seed
+43:01
+fund for quantum in and around Chicago, where the University
+43:08
+of Chicago and others are building really interesting quantum infrastructure.
+43:15
+You could probably do pretty well. Yeah. And there are isolated examples of that.
+43:22
+But then you look at great medical schools and institutions, Johns Hopkins, phenomenal in every way.
+43:31
+MD Anderson in Houston, phenomenal in every way. Two of the best in the world.
+43:37
+Think of how few opportunities breakouts have emanated from
+43:43
+Johns Hopkins and MD Anderson compared to UCSF and Stanford
+43:50
+and, of course, Cambridge, Massachusetts, around Harvard and MIT. So these ecosystems, to me, it's a geography really matters,
+43:59
+there is no doubt about it. And then you have to drill down on specifically what the opportunity is.
+44:06
+MD Anderson, as good as they are when the great Cancer researchers want to do something new.
+44:13
+They're thinking about a startup where they will do a big licensing deal early on with a big pharma company, again
+44:21
+making a blanket statement. But that is history at MD Anderson Houston.
+44:29
+Now, of course, for many in the audience, you may know MD Anderson and UT.
+44:35
+We're in the process of building a hospital of the future here on the University of Texas campus.
+44:41
+And the MD Anderson cancer geniuses who are coming to
+44:47
+Austin recognize maybe that goal of licensing is not necessarily
+44:53
+the best way to build a startup. This little bit of venture capital equity incenting my
+44:59
+postdocs to get a little bit of equity or a lot of equity, that might be the magic.
+45:05
+So we're watching Austin change as we speak, and that's very exciting. Stanford is kind of at the opposite extreme.
+45:12
+It's sort of like, well, that's a that seems like a good idea. Why don't you drop out? You know, you could always come back.
+45:18
+And if you if you start the next Google, we'll make it on the other side of it when you decide to donate
+45:23
+money to the school. And but they don't get too fancy about what's our take or any of that stuff.
+45:29
+It's kind of like anything goes, you know? Although Stanford has a program where a couple universities
+45:36
+have it, a tenured faculty member at Stanford, for example,
+45:41
+Fei-Fei Li and the Department of Computer Science, I, I backed her startup, uh, known her for a decade, and she can leave
+45:53
+the Stanford faculty for two years and devote most of her effort to the startup.
+45:59
+But within two years, if she wants to remain in her tenured professorship, she has to go back.
+46:07
+And so very few universities offer that flexibility. But more and more should.
+46:14
+Yeah, yeah, because startups are all about what could go right? Right. So you need to create the degrees of freedom
+46:19
+for things to go right. Um, so I'm not quite sure the technical wrinkles of taking
+46:26
+the questions, but I think we're probably entering that window of time where. Okay, here we go.
+46:32
+Um, so one of the popular questions are, what are some of the red flags that immediately turn you away
+46:38
+from investing in a company? Um. There's no one better than you talking about some of that.
+46:44
+And I'll. Um, I'd say that the that the number one thing for me would be, um, they want to the status of
+46:57
+a founder rather than to, to pursue the passionate vision that they have.
+47:03
+So startups have become sort of fashionable. Founders get a lot of positive attention.
+47:13
+And so a lot of people now think of being a founder as a career step, something that I want to do.
+47:19
+And I don't think that that's a good reason. So so like the thing that I look for in founders is how authentic
+47:28
+of a match are they to this future that they're pursuing, and do they come about the idea completely, honestly?
+47:35
+Would they do it even if they couldn't raise the money? Whereas if somebody thinks it's my time to be anointed as
+47:42
+a founder, you know, I went to Stanford, I went to Google and Facebook, and I know a bunch of people, and it's time for me.
+47:49
+I've made a few bucks on my stock. It's time for me to go start a company that that to me, is a bad sign.
+47:55
+Oh, it's a great point. I would there are we don't have enough days to
+48:03
+talk about the red flags. All the things that can be bad. But there's an authenticity.
+48:12
+The founding team needs to have incredible passion
+48:18
+and an understanding of how difficult the journey is. So sometimes I see of a founding team of 4 or 5.
+48:26
+There are two who are exceptional, and then there are a couple red flags from some of the others.
+48:32
+And in some cases I'll make that investment recognizing this is
+48:37
+part of the the journey. I would also say for every company out there.
+48:47
+We talked about public boards and some of the best public boards I've been part of currently.
+48:53
+Blackstone was on the Walmart board for 12 years. The first our Facebook did this meet up.
+49:01
+The first hour of every board meeting is what's not working.
+49:06
+And so whether it's a business plan, its founders, companies, I don't need to hear the good news.
+49:15
+I can figure that out. I want to hear from the founding team and the leadership, whether
+49:22
+it's a firm with $1 trillion under management market cap of
+49:28
+you pick the number well over a trillion. I want to know the bad news. What's keeping management up at night?
+49:35
+Walmart was brilliant at this, the first hour of every meeting. Here are the things that are not going well.
+49:43
+And in some cases, whether it's Walmart or Blackstone or Meta or others, you walk out and you say at the break,
+49:51
+boy, this is tough. Yeah, but you realize that when management, when there's
+50:00
+a culture of delivering the bad news right up front.
+50:06
+That is a cultural attribute that if you don't
+50:11
+have it from the beginning, you can never go back. Yeah. It's interesting. I read a book once by this guy named Richard Rumelt called
+50:20
+Good Strategy, Bad Strategy, which I really like. And one of the things he talks about is most people
+50:26
+confuse goals with strategy. But a good strategy has to solve the challenge. So like if you're climbing a mountain, there's a crux
+50:33
+that you got to get past to climb the mountain. If you don't clear the crux, you don't climb the mountain. So you have to articulate what the crux is to have a chance
+50:41
+to climb the mountain. And to me, this relates to what you're saying, right? Like, no company, no matter how well it's doing, has no
+50:49
+challenges because and so every strategy that's relevant addresses the most important, relevant challenge in the best
+50:56
+way that they can, given the assets that they bring to bear to the problem. Right. And so you have to have a culture that says, we're
+51:04
+going to be very tough minded about what the challenge is, and are we being tough minded about our ability and capacity
+51:10
+to address it right? Or are we in a state of denial about our ability to do something about it, or are we best applying our efforts
+51:17
+and force to the thing that we can overcome? So a question for you, Mike.
+51:24
+What makes a great venture capitalist? Hmm.
+51:30
+There's a simple answer, I think, and a more complicated answer. We have eight minutes and 19 seconds.
+51:35
+So the simple answer is, you know, one time somebody asked me, I was talking to somebody who was a great
+51:41
+sales exec, and I said, what makes a great salesperson? Is it customer relationships?
+51:48
+Is it prospecting? Is it they're a good closer. And the person said that Tom Watson of IBM, who was
+51:55
+the best salesman of all time, probably said a good salesman is one who sells. And and, you know, there's something profound to that.
+52:03
+And so what makes a good VC? A good VC makes returns. And you'd be surprised.
+52:09
+There are a lot of famous VCs who don't have very good returns. But like, if you're not in it for returns as a VC,
+52:15
+it's pretty hard to argue what you're in it for. And so like every every investment has to start out
+52:21
+with the right goal, right, which is to get a return. But when I think about, um, when I think about some of what
+52:29
+I learned from you when you were involved with motive and some of the things I've tried to apply is that a good VC understands
+52:38
+how value creation can happen in a company at a given time. And so, like when a company is in the 0 to 1 mode and doesn't
+52:45
+have product market fit, you have an uncertain product and an uncertain market and customer. There's a different set of challenges, uh, related to
+52:53
+creating value. Then you start growing and you're going from zero to 1 to 1 to X, and you're trying to hire people for
+52:59
+the first time to execute. You're trying to staff the company to to perform at scale a whole different set of problems.
+53:07
+And so it's like the startup creates value differently through different windows of time 0 to 1, one to X,
+53:13
+profitable growth. And like one of the ways I think a venture capitalist could be helpful is to be the the founders partner in
+53:20
+value creation and to kind of say, help us locate where we are in the journey of creating value and bringing
+53:27
+the perspective of how value happens at that window of time. And by the way, eliminating all distractions.
+53:33
+But those discussions. So I would say that that's always been something I try to think about. Well, how would you answer that?
+53:39
+You're you know, you've had a pretty good run. Yeah.
+53:44
+Well, first, knowing what we don't know, I could never,
+53:50
+ever operate in scale. One of these companies. Yeah.
+53:56
+And so I think having some operating experience is
+54:01
+phenomenal, but we should never forget there are just
+54:08
+people who live and die by execution operations.
+54:14
+The detail. Sheryl Sandberg, when we hired her in 2008, is that type of person.
+54:20
+She happens to be truly gifted strategically, but she's that
+54:26
+person who loves the details. We have a lot of those people at Walmart, Dell, on and on.
+54:34
+So from a venture capitalist perspective, knowing what we don't know.
+54:41
+True humility, knowing that there will always be a dark day standing by our teams delivering the hard news if we
+54:51
+have to scale and make changes. Helping deeply with strategic partnerships.
+55:00
+I see that as one of the several questions
+55:05
+the venture capitalists when we're working it right. If a CEO asks me to get to Satya at Microsoft, I know
+55:17
+within 24 hours my job is to get that to happen.
+55:23
+Yep. And Satya is good because he's usually within four hours. Michael Dell's within three hours.
+55:28
+ET cetera. But these are the tests. If you're out raising money and you're thinking about
+55:35
+the venture capitalist and the team of venture capitalists that I'll get into in one moment,
+55:43
+these are some of the many important characteristics. And I want to come to the team of venture capitalists.
+55:50
+You can tell I love this guy. Anytime I can work with Mike maples, I want to work with
+55:58
+Mike maples, and having venture capitalists as part of your company that love being with each other is really essential,
+56:08
+and I've seen plenty of instances where there are some really smart, good venture capitalists as part of a board
+56:16
+and part of a cap structure, but they don't check their egos
+56:21
+at the door. We have to check our egos at the door. Well, and it's it's, um, it's a miserable existence
+56:28
+for the founder. If the investors are not getting along with each other,
+56:34
+or they care about different things, or they don't care about the right things. You know, you're you're like you.
+56:39
+Just some of you, this might resonate. You just can't believe how screwed up things can get right.
+56:44
+Like when you have fancy cap tables and when you have different preferences and classes of shares
+56:50
+and one set of investors with a different set of interests than another set, and that it's clear what has to happen
+56:57
+for the good of the company. But one investor blocks the deal because they have a certain type
+57:02
+of consideration. And so you just you just want people in the mix who care about the company winning.
+57:08
+And that's all they care about because startups are impossible enough to begin with. Right? Just, you know, investors not getting along with each other
+57:16
+or having different ideas about what needs to happen. It's just it's a miserable existence. Yeah.
+57:21
+Yeah. For sure. Um, let's see some other, other questions here.
+57:27
+Uh, winning is great. Will you share an example of a heart breaker, one
+57:32
+that you got wrong? Oh, boy. Uh, do you want to go first, or do you want me to intuit?
+57:38
+You've all heard of quicken. Oh, boy. I didn't.
+57:44
+I identified Scott Cook, the founder CEO.
+57:50
+Spent a lot of time with him.
+57:57
+Knew he was extraordinary. But what I didn't appreciate at the time was the dynamic
+58:06
+of what he was looking for, which was a couple experienced venture capitalists.
+58:12
+I was one year into the business, and he's
+58:20
+a next door neighbor in Northern California, and we talk about it a lot.
+58:25
+And so I think that for us as venture capitalists,
+58:30
+it's not necessarily where the analysis was wrong. It was an understanding of sometimes stepping
+58:38
+back and saying, here's what the entrepreneur really cares about. And if I cannot bring that, but I think it's
+58:46
+a great investment. Do anything we can to be part of the deal, but don't let
+58:53
+Egos get in the way in terms of do I need a board seat? Do I not need a board seat?
+58:58
+On and on and on. And that was one that got away.
+59:04
+So for me, the biggest, uh, embarrassing moment would be a company called Air Bed and Breakfast.
+59:11
+So Michael Seibel, who was at Justin.tv at the time, introduces me to this guy named Brian Chesky.
+59:17
+And he comes into the conference room and it's full of cereal boxes. And I look at him and I thought, what's up
+59:24
+with these cereal boxes? You know, Obama O's and captain McCain crunch. And I thought, you're a startup, a tech startup.
+59:31
+He goes, well, we're funding the company by selling these cereal boxes. Would you like to buy one? They're $35 each.
+59:37
+And I made my first mistake by declining it. And then, uh, he says, Michael Seibel says you
+59:43
+like demos and not slides. So I'm going to show you the product. I'm like, that's great. That's right. So he can't get the product to work because the servers
+59:51
+were down. And so I said, well, let's just look at the slides. He says, I don't have any slides because I was going
+59:57
+to show you the demo. So we're 20 minutes into this meeting. We're in a room full of cereal boxes just looking at each other.
+1:00:03
+And and this is before he had applied to YC. It was before Michael thought he was ready
+1:00:09
+and I just didn't have the. It's a longer story than I've got time to tell, but I just didn't have the I mean, part of why I wrote this book was
+1:00:17
+I was like, I need I need to never make that mistake again. You know, I need to I need to never have the failure
+1:00:23
+of imagination that I had. And most of the things that the Heartbreakers for me,
+1:00:28
+are not things going wrong. It's a failure to understand what could go right and to have a failure of imagination to chase it and to realize
+1:00:36
+what was right in front of me. That's probably a good way to. That's probably a good way to conclude.
+1:00:41
+Well, thanks. Thank you everyone. What a joy.
